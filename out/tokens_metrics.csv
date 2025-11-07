@@ -1,0 +1,25 @@
+sample_id,texto,token_index,entropy_bits,surprisal_bits
+0,El sol sale por el,0,11.949057395927253,16.76962103071523
+0,El sol sale por el,1,8.875847124933863,18.57832954917042
+0,El sol sale por el,2,8.592509835221007,13.89789875416667
+0,El sol sale por el,3,9.490776596538664,4.246033231836149
+1,"Si pudiera viajar en el tiempo, me gustaría",0,11.900309257505493,11.309784124058124
+1,"Si pudiera viajar en el tiempo, me gustaría",1,10.252420340010904,6.741911158529858
+1,"Si pudiera viajar en el tiempo, me gustaría",2,9.65719939226438,14.184086140369624
+1,"Si pudiera viajar en el tiempo, me gustaría",3,8.348372207154009,13.247079255049215
+1,"Si pudiera viajar en el tiempo, me gustaría",4,9.900768101722322,21.522635383689117
+1,"Si pudiera viajar en el tiempo, me gustaría",5,10.017591788869808,7.405878387340472
+1,"Si pudiera viajar en el tiempo, me gustaría",6,10.479152635879982,5.029663581359994
+1,"Si pudiera viajar en el tiempo, me gustaría",7,10.887707054033033,7.240133203259156
+1,"Si pudiera viajar en el tiempo, me gustaría",8,7.87303486187912,3.809148111606469
+1,"Si pudiera viajar en el tiempo, me gustaría",9,0.40511652795796543,0.06850637601505083
+1,"Si pudiera viajar en el tiempo, me gustaría",10,8.091769276552474,3.5795130925561276
+1,"Si pudiera viajar en el tiempo, me gustaría",11,9.137120416402228,8.882603291390359
+1,"Si pudiera viajar en el tiempo, me gustaría",12,8.851067176666946,6.337268313788032
+1,"Si pudiera viajar en el tiempo, me gustaría",13,2.9728738726535187,4.775611497436056
+1,"Si pudiera viajar en el tiempo, me gustaría",14,8.21622968132887,5.7135666950933235
+2,La capital de Francia es,0,12.172594942073905,15.176028411959235
+2,La capital de Francia es,1,8.380111949336042,9.820565712318961
+2,La capital de Francia es,2,9.995188640837815,11.463498089815682
+2,La capital de Francia es,3,5.243326571624706,2.962685620416406
+2,La capital de Francia es,4,8.047931586778148,12.475366959264862

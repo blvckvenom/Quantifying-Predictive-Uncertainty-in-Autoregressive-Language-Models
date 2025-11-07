@@ -1,0 +1,4 @@
+model_name,entropy_bits_mean,entropy_bits_std,entropy_bits_median,surprisal_bits_mean,surprisal_bits_std,surprisal_bits_median
+distilgpt2,7.478,2.585,7.949,7.717,5.291,6.645
+gpt2,6.998,2.918,7.559,7.03,5.044,6.275
+gpt2-medium,5.556,3.313,6.346,6.32,6.059,4.366

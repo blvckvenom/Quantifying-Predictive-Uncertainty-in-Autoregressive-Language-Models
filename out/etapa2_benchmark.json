@@ -1,0 +1,23 @@
+[
+  {
+    "model_name": "gpt2",
+    "device": "cuda",
+    "seconds": 0.273,
+    "num_texts": 10,
+    "max_len": 256
+  },
+  {
+    "model_name": "distilgpt2",
+    "device": "cuda",
+    "seconds": 0.202,
+    "num_texts": 10,
+    "max_len": 256
+  },
+  {
+    "model_name": "gpt2-medium",
+    "device": "cuda",
+    "seconds": 0.296,
+    "num_texts": 10,
+    "max_len": 256
+  }
+]

@@ -1,0 +1,808 @@
+model_name,sample_id,texto,token_index,entropy_bits,surprisal_bits
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,0,11.949061523510874,12.317730413206425
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,1,9.522142792403022,6.6314391346440384
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,2,4.533628811984369,1.3171857139249539
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,3,9.651696635367372,8.05081057635359
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,4,10.754743139067376,14.699870365474428
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,5,8.926145858935804,6.210088519336192
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,6,7.17917911214036,8.0061824543159
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,7,5.863976874127807,1.3748001599379711
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,8,7.962165214654072,15.19028921336878
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,9,5.13647306271304,2.0208651126809976
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,10,7.992018651121442,3.1677026988569428
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,11,8.19821002710207,6.5796861153464015
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,12,8.643305255118639,1.7638372129491808
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,13,10.365283610674322,18.007534265430035
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,14,4.039546389661339,1.2761020683302189
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,15,0.025586713507656515,0.0025020684341498286
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,16,6.67921660298433,11.768855350214409
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,17,6.791707015260676,5.805944424281867
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,18,7.136699397377246,8.708571295259869
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,19,3.8604041010431116,0.9405977110877738
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,20,8.964141642025622,10.507596502540881
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,21,4.274710306971618,1.3549684105103534
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,22,0.042483111420468275,0.005060132336818175
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,23,6.592636408956372,5.468778628640762
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,24,9.270197151986853,11.05964567733722
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,25,5.788663607523172,2.7475048832578297
+gpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,26,7.611511851601701,6.399763369458559
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,0,12.172597693796318,18.719640126147752
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,1,6.43872638297683,7.964400301184685
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,2,5.924291877715997,5.590643127285036
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,3,0.04952824635161725,0.0055620190281804914
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,4,7.042756282100549,16.27073926053722
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,5,5.82426332832117,11.159345395903598
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,6,8.4205079223013,10.091292546139954
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,7,9.599700088636114,9.193812777432644
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,8,9.181906074548111,4.845959624910281
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,9,8.378986494868796,10.240773674894475
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,10,6.975121008961033,4.645587109938946
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,11,6.773708686882581,3.0648701443224486
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,12,6.037980665103555,2.574291352562796
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,13,7.58798668875548,2.8344746179899922
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,14,8.582008574559325,17.969839795944527
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,15,8.744121485054418,5.541104900565211
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,16,7.635455964185425,12.983118906643769
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,17,7.22177577510606,11.001928299707663
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,18,6.48595144304255,2.7341175817320176
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,19,8.226327126726328,7.1537683315100775
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,20,6.70152963210727,3.3142246941207194
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,21,0.7153150139871551,5.741538641360254
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,22,5.0869719842458005,2.8439068344939122
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,23,7.141194335940196,11.58949533156019
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,24,2.6000701760659237,0.3990361243323735
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,25,1.2770164140935312,0.2306329698798039
+gpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,26,7.23653807792552,4.010037606426298
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,0,11.949061523510874,16.756363232125516
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,1,8.66481890888037,6.9917854398990364
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,2,8.197449175854652,8.956681722561797
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,3,7.179128205275704,10.057253739881187
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,4,4.3805938337324175,0.7790754750070684
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,5,9.038732581496634,7.911245967247818
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,6,8.885733375636061,12.47541649026831
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,7,8.59006080227272,7.744994466242362
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,8,5.454659540935529,7.996845172235256
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,9,7.878607787697678,7.1661909823472
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,10,9.600535236388705,12.207885782030953
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,11,7.13298869970223,3.2268908721166802
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,12,8.91231570208402,4.60661721711464
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,13,8.627587416690986,3.3195554683668633
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,14,10.617810552450408,11.278859579641182
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,15,8.512954788515492,16.98926764136876
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,16,0.6842495297878297,0.09842056535383789
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,17,6.47392779195543,9.019217366137928
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,18,4.487093058383307,1.1993295289330137
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,19,8.840090555958279,6.790421272962825
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,20,6.978879173847687,12.380989759777387
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,21,7.857931345480347,4.3082128713249945
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,22,7.203384638353395,5.798851859760285
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,23,8.807504659134,6.148612976819979
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,24,10.1143244627435,6.612979204831028
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,25,3.3096802245543206,7.48037714411062
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,26,7.558819119099751,9.87882930684766
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,27,3.967829624251548,6.199805332675802
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,28,2.1502825734032136,0.36719009687210724
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,29,6.708832703393509,17.197691352157587
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,30,7.257351418332937,5.27517019132786
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,31,5.531564678956549,6.060086627114857
+gpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,32,6.3616740278066715,2.72919457835107
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,0,12.219850271086177,22.689404211256203
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,1,8.553061830627303,21.758980821810823
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,2,6.867849238242469,7.996071938236976
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,3,7.52343609644184,22.807355416662748
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,4,5.656484965341353,4.963543131409279
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,5,4.588267700163484,4.7579320248926615
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,6,3.5734448567030843,0.619645708843748
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,7,7.405253746352539,11.610588659723211
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,8,10.344284529003971,11.266570387341128
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,9,6.919600881678898,9.70761576239951
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,10,7.441696182139764,4.0546502500254125
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,11,8.642538212495792,10.823918000897415
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,12,3.956682396753224,0.7579221248988955
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,13,4.334039849970364,6.814182396006031
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,14,8.344479895799681,4.340439324408969
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,15,8.106677420659866,3.3362618630716763
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,16,11.122296205324128,8.998431542954648
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,17,6.495759957586558,2.5222464787066454
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,18,2.3889385984392617,7.970336454361865
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,19,0.6157806137439199,0.07486074800346718
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,20,0.5370121296921264,0.10927098304351952
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,21,6.840184796955281,1.9412240746500515
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,22,7.979197688464921,12.372540596105798
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,23,7.8817172340252775,6.26438137842177
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,24,6.547555628581608,7.3484361819522945
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,25,6.353667203513102,4.914522916433852
+gpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,26,8.281093969997684,3.3486033380975915
+gpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,0,12.172597693796318,11.991689831284333
+gpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,1,10.941966892449646,7.50519148890771
+gpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,2,10.438822016322051,8.599168315531811
+gpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,3,9.319931782893963,6.839377166426829
+gpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,4,8.606089585333134,9.212125490096517
+gpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,5,8.578076363229997,15.592910230067062
+gpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,6,7.197781443588284,10.47946495637395
+gpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,7,5.500125906413526,2.862544250402613
+gpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,8,7.785840345822279,7.129337164059111
+gpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,9,8.022179592568554,4.830460204449223
+gpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,10,7.227616305929361,15.126798722115058
+gpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,11,8.659416589851467,13.479502112870042
+gpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,12,6.45061038415145,7.228152891800053
+gpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,13,8.926305458835804,5.180864880588446
+gpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,14,9.878913922311884,3.964163642065756
+gpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,15,11.406181087797332,11.042522396686717
+gpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,16,1.8628751422750378,0.3212839072623597
+gpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,17,7.783484871436062,2.7089191996755515
+gpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,18,8.769806749995476,8.49685239688051
+gpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,19,6.970465782567479,4.781623666944919
+gpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,20,0.65867919225321,4.305757647001277
+gpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,21,4.176236824705892,5.894946134033974
+gpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,22,7.525265303916417,13.104688627024466
+gpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,23,5.009802336907754,3.7378437605934467
+gpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,24,6.824068646708229,3.1990203956137586
+gpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,0,12.301032961599457,11.95718735979884
+gpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,1,9.000553808866297,6.435683665917765
+gpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,2,1.9461940292946849,3.0624338380903264
+gpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,3,9.27230153170281,6.446720136588933
+gpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,4,8.260547546664407,10.122846547059055
+gpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,5,10.055906083829026,6.479168447292521
+gpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,6,0.5226747100116229,16.63390470540516
+gpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,7,8.977940842000251,3.1187261674748354
+gpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,8,8.22122061785691,12.22257997972067
+gpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,9,6.248814884726875,5.4255989444886366
+gpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,10,2.5834279308898824,0.8038106217934355
+gpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,11,8.993629099411956,14.021822573072376
+gpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,12,5.840380166498826,8.77132432490669
+gpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,13,2.4588557373904245,0.3496796832745104
+gpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,14,8.380808823037338,15.405493168185222
+gpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,15,4.984305564952041,1.9773213412569957
+gpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,16,8.446738716210897,5.989390750720587
+gpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,17,10.1791859996899,8.419185031750866
+gpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,18,8.643122265578121,6.329701077150068
+gpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,19,7.475988146860601,2.4262973577902844
+gpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,20,1.5313447021547542,0.33053057598382996
+gpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,21,8.63549793070007,4.1399505491656505
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,0,11.949061523510874,17.12873181260643
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,1,9.727935856564253,11.17629050252781
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,2,8.969471040410559,7.956079092605338
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,3,8.376002939841628,7.551677711505324
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,4,2.7375481196687783,0.4535352766076618
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,5,0.3217109616822834,0.03279992923327684
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,6,2.6060164762195055,1.6725004947463096
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,7,8.66902078900625,12.97179694477217
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,8,6.790608390086964,4.334899763224678
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,9,6.137132102978981,10.54585920270484
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,10,8.195126034206798,15.403209238581764
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,11,6.387057291212814,6.928660927726351
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,12,8.3976245987081,4.543772348732258
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,13,9.690009554465382,12.473041753825196
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,14,3.0085351632405257,0.4687509256947962
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,15,1.832841296006913,1.8072451180790012
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,16,2.6205792791639646,0.6162122472019229
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,17,8.351516737942385,12.437269362445733
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,18,4.657617984297403,6.957786533615269
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,19,7.60848770866893,4.958509543183826
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,20,8.131343860377212,5.409229291814213
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,21,10.014001479050396,13.112122405125358
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,22,6.172170472404563,6.801280257538303
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,23,3.940000079619532,4.905098611131872
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,24,0.12135692409699958,0.01642507677089331
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,25,7.721214769072863,13.38430627596446
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,26,7.619874336017255,2.825543214965385
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,27,8.135515471556541,5.203250142424749
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,28,7.719273428909924,9.707934962199511
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,29,9.62756953324313,9.424402988125879
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,30,7.218873395890099,6.812009911160332
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,31,7.051027959676446,6.743200340480726
+gpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,32,7.897411682812414,3.4385038291831074
+gpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,0,12.172597693796318,18.391898979773927
+gpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,1,10.617734880084027,10.5037131342844
+gpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,2,10.008928678780547,6.727847105272901
+gpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,3,8.84452977214235,17.28862064346056
+gpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,4,8.815618800601708,8.586020585838652
+gpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,5,8.692756458617128,6.72488487609444
+gpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,6,4.8962944752689035,1.3523393117266136
+gpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,7,9.773736212350226,8.98812427872314
+gpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,8,9.513718394233159,3.6843351423958026
+gpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,9,1.9027009927526877,0.2967611160541454
+gpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,10,10.296207810851179,6.275304340543369
+gpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,11,9.670323044386418,5.666051672278249
+gpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,12,11.012991599672365,10.462987642560087
+gpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,13,7.094465273839564,4.673391201138634
+gpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,14,9.629714500864692,3.457500688832112
+gpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,15,9.743797472488028,17.381974202210102
+gpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,16,8.829610621145303,5.209110279270249
+gpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,17,9.46290783986225,4.9631190221922505
+gpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,18,10.088468591012786,7.742617666007438
+gpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,19,7.107078481453843,4.975506932533899
+gpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,20,0.37506363461125747,0.06453358752903564
+gpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,21,9.136958064779813,9.622917746502594
+gpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,22,6.31569068248018,6.222365328885382
+gpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,0,12.172597693796318,17.884437339109677
+gpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,1,6.2344584609634515,4.964772807362948
+gpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,2,9.258725909174304,4.610871379966382
+gpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,3,7.460661053015708,6.232488915645771
+gpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,4,10.895304559617548,7.520997382452605
+gpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,5,8.164569532662702,4.8733722835966065
+gpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,6,6.201666872888741,2.872121620263861
+gpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,7,0.2428181341739161,0.026580343273016394
+gpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,8,0.6093036181254384,0.1261646991018694
+gpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,9,6.792815271462835,4.591148409565435
+gpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,10,7.775243462806716,4.938850550329
+gpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,11,10.781573120532578,11.457480072896692
+gpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,12,4.040885790546259,1.0291675724035643
+gpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,13,2.3353070126462505,1.0685103236149402
+gpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,14,0.09300622903720632,0.009070511460480653
+gpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,15,6.7799537209007115,7.917468987486638
+gpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,16,6.565816058519618,17.115939055104647
+gpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,17,1.1842806170258908,10.351871027698833
+gpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,18,6.767844078488159,1.8124441536145839
+gpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,19,10.411966581424522,14.979928290000634
+gpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,20,0.6571740860841842,0.11587346150363682
+gpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,21,0.009726079094244333,0.0009808275548585654
+gpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,22,4.979163971621846,4.043458651003166
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,0,11.949061523510874,15.12232992491504
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,1,8.517272240982752,17.13132531098144
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,2,9.86113504379629,6.67422153887267
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,3,6.825829749053064,2.2839249599265252
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,4,7.844899188128568,17.837494330591372
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,5,8.236106060254388,4.92124778204789
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,6,8.787537473368829,12.584617218398952
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,7,6.897694419542597,6.749775581188513
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,8,9.14760929431305,15.953051532002233
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,9,6.407430356034023,5.500892949036374
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,10,9.482358389744231,11.107202319953805
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,11,7.468601835971346,3.711480196077385
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,12,6.45174065413292,8.143074453027264
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,13,4.138521029371678,0.6208104183510537
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,14,0.9785985676657929,6.434341513310432
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,15,9.11271470238359,11.483994294214908
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,16,2.729381523492558,3.8428278180902344
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,17,9.39186111886022,3.816446023413181
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,18,9.58617468504166,8.80121353376544
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,19,9.420298794145689,7.789317147092121
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,20,5.3087429246027895,3.78523082831628
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,21,8.735938550526365,2.875558865524005
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,22,9.423049828628889,12.649721594848371
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,23,5.341942455525346,1.6750427422913636
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,24,10.31502477664738,12.606143942842149
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,25,5.178466754504815,1.966563826445527
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,26,4.340612338955737,1.8720770740094523
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,27,2.8884947125913025,1.2439420005494772
+gpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,28,7.860446419766565,2.9922033467492914
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,0,11.214993478277975,15.739034945407347
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,1,10.585594762290786,8.611535243990055
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,2,4.930357359098791,1.06156961977407
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,3,9.295903054846015,7.545162320760037
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,4,10.905709509994749,12.00363918586628
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,5,9.080973584340349,7.00839621224997
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,6,6.04088992362555,11.754253335225554
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,7,6.6637526109493495,2.6586171980032445
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,8,8.631865657113849,14.489904314272664
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,9,6.57077191058688,5.684127048883929
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,10,8.52432421759873,3.616286766928915
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,11,9.262595518818717,6.376720445965357
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,12,7.664135791043307,1.4397529336806534
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,13,10.355742013204452,16.578180950664404
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,14,4.0531082535777765,1.07229849947417
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,15,0.017144120110777195,0.0017524702937377534
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,16,7.30818673820557,11.420124065268082
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,17,6.808588144338765,7.143225107081584
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,18,7.26756168434936,8.824191103851314
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,19,4.252094588383159,1.0340053583810096
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,20,8.65096536238807,11.011339190362875
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,21,4.239905489985908,1.3105963706397963
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,22,0.014591528077996654,0.0015751887633488493
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,23,7.1278643046371215,5.712747025779311
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,24,9.151747196892808,12.47530504551055
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,25,5.662030029970472,3.023375890148779
+distilgpt2,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,26,8.030723002732815,5.100885380700602
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,0,11.164189115282499,22.803157664120487
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,1,6.366770905647641,6.527079374169882
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,2,7.292678718611969,5.199011801976886
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,3,0.30300894479035223,0.034701756382180496
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,4,8.213912043125845,16.8800242615407
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,5,6.8126386797318865,9.770918448598488
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,6,8.38471214128132,9.961163593191117
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,7,10.206676394534414,7.777237773626121
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,8,10.058918531941538,7.044591680950557
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,9,8.892964902139541,11.376946788873068
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,10,7.52717362341039,6.112776607894394
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,11,6.870177883335151,4.366187191034943
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,12,7.855400448790251,3.7814499617197117
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,13,7.8956801614835275,2.9606101337857935
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,14,8.84764540984538,18.069822253988924
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,15,7.440373291589328,5.53275892648414
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,16,7.3610321913014864,14.429828710534474
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,17,6.7453040322660796,12.353531697671235
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,18,7.814084712608176,3.7822149405507495
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,19,8.407902969854264,6.833484352877666
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,20,6.277790521744241,2.355380483689656
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,21,4.959804916510125,4.710083355734913
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,22,4.521836305580008,3.7493277301221597
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,23,7.288666019402037,11.348070901793204
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,24,6.96051349052735,3.2581865550941855
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,25,4.285137959058732,1.3023351840056012
+distilgpt2,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,26,7.425154202849176,3.564067330682139
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,0,11.214993478277975,19.996714498394624
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,1,10.128623788266838,12.021178664531874
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,2,8.674360506350238,8.189638411783067
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,3,7.823527936001751,10.629964222421581
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,4,8.55863269265405,3.078429944447076
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,5,9.461463185595003,8.89046908991022
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,6,10.08824226184425,11.858437673395828
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,7,8.594407835755929,7.5220946317651105
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,8,7.33232759894188,7.741666945913468
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,9,8.516869113649129,7.618144190549575
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,10,9.60148320476026,13.136337562366842
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,11,8.116701945413357,3.2697561719830284
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,12,9.27034024155237,5.743193458426856
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,13,9.667707532232097,4.312111030089451
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,14,10.793305089043834,10.942753197129392
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,15,8.461838105026048,16.025571800356854
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,16,0.5588835503633143,0.07685701512552587
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,17,6.558107796107947,8.722617462321136
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,18,5.6067947059581655,1.5115563783464794
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,19,8.962335824191562,5.605754898851049
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,20,7.353542690821713,11.944196478283267
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,21,5.923127899134958,5.008296112851497
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,22,7.978908757611471,6.93452897577379
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,23,8.985493632095542,5.827290222976355
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,24,10.214899229037467,7.658739663389836
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,25,2.5115692797931297,10.168214194495457
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,26,7.597403770786124,9.854704956445833
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,27,4.9754432989530795,6.441687924224688
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,28,2.8497556204844545,0.5167634083274919
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,29,7.430807616548338,16.958962922425524
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,30,7.627078345296596,4.109997706726082
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,31,5.879962317560203,7.7959515498318055
+distilgpt2,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,32,7.063157552076499,3.6323509784154067
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,0,11.16182125814542,31.735920039600284
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,1,9.908033336825373,17.79666289755413
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,2,9.132234733256517,9.288183785544689
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,3,8.942819232971651,22.075841657760463
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,4,6.989321960408077,4.955580678639632
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,5,6.492988285185253,5.521202724242065
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,6,6.827694040988416,2.4486817597133332
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,7,8.27688727435758,11.447484441228545
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,8,7.873294211716621,13.636026963073302
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,9,6.301797923943482,11.365838085488537
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,10,7.878726799692075,7.679921734600703
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,11,8.535468693374641,11.509826776305106
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,12,5.304815872752988,1.620821599971195
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,13,5.019792121165771,7.287802666494706
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,14,8.522479875650879,5.326303385151787
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,15,9.027057711225462,3.2507039339204464
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,16,10.951238821122962,9.577495064617915
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,17,7.095771654055518,3.3455719718934835
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,18,5.126043346834115,4.5021322532706565
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,19,1.4130359448170686,0.18549855241580318
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,20,2.14501956032151,0.8425404268371366
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,21,8.191568745056351,2.9893374278553138
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,22,8.555310675769984,12.3653049420187
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,23,7.491994228211102,7.433605430312574
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,24,7.547589339929013,5.295690129332906
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,25,6.757864269223893,5.273468938945525
+distilgpt2,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,26,7.949253445157895,3.431604573161095
+distilgpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,0,11.164189115282499,15.235970557160355
+distilgpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,1,10.207296907938728,7.556533125704482
+distilgpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,2,10.898880422894289,6.304394861971511
+distilgpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,3,10.425422504028028,8.16958661055367
+distilgpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,4,9.403534613270185,8.732007715058245
+distilgpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,5,8.78404966520933,15.79921511459726
+distilgpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,6,7.017381273861647,10.568002312968728
+distilgpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,7,4.962829747373499,1.954209624703448
+distilgpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,8,8.737846182089735,6.8875570741701395
+distilgpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,9,9.960120690396286,4.465172837634936
+distilgpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,10,6.382080801227448,15.081388422981242
+distilgpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,11,7.465287386323918,15.961354854385888
+distilgpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,12,7.187620708575309,6.1991222175865754
+distilgpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,13,8.90476910336416,5.301866370290691
+distilgpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,14,9.850571869380296,4.19914319397431
+distilgpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,15,11.262867944833355,11.738891844850487
+distilgpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,16,7.2941612090624055,3.2229479978629993
+distilgpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,17,8.312279928043939,3.2947012235947737
+distilgpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,18,8.812261011326262,8.03829643074621
+distilgpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,19,7.085795284444268,4.086211818181152
+distilgpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,20,3.5983410652419847,4.215793522334942
+distilgpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,21,5.352561008354917,7.048048532232899
+distilgpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,22,8.216215922716803,12.756398993525552
+distilgpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,23,5.478072915058689,5.48629127801282
+distilgpt2,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,24,8.549155072730303,4.178962405756766
+distilgpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,0,11.015530063599101,15.079934137685546
+distilgpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,1,10.71812734476808,8.550704980379878
+distilgpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,2,6.0500201385945545,4.298242349123874
+distilgpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,3,5.840726195592362,6.26521652617436
+distilgpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,4,9.225910931459076,10.861521663543266
+distilgpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,5,9.562626820485525,6.964419560493746
+distilgpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,6,0.808780576438069,17.222952163916315
+distilgpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,7,8.366828697314002,3.275470811505898
+distilgpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,8,8.899057903494308,12.630354972500012
+distilgpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,9,5.856254853104066,6.009715660399554
+distilgpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,10,3.7545277975536475,3.575279223657187
+distilgpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,11,8.022257328726743,14.609000236203348
+distilgpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,12,6.930247983628513,10.818337507842218
+distilgpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,13,5.875374508365787,1.719962546904919
+distilgpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,14,8.680927491890785,16.135778283029744
+distilgpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,15,5.417367854818343,2.5134127618277278
+distilgpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,16,9.223076657372857,6.5471187926484165
+distilgpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,17,9.90184402518612,6.597194637134839
+distilgpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,18,8.648975867082887,5.551764385265688
+distilgpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,19,8.099745831899492,5.134736037939325
+distilgpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,20,2.3626747838607005,0.5692168269707671
+distilgpt2,5,Los sistemas embebidos requieren controladores robustos y eficientes.,21,8.737302028982405,4.598145007767837
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,0,11.214993478277975,23.359875135991846
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,1,9.12623735425563,12.07881761807264
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,2,9.845230776175102,8.161328691589842
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,3,8.996437920065848,6.645281674246684
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,4,6.073424225654569,2.810066152248939
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,5,0.2593850509488796,0.02389898863570354
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,6,2.5846276818623015,2.3126410751237394
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,7,8.65437818611179,13.317593517764173
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,8,7.560847138518725,5.665437694214668
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,9,7.036766470336299,12.045480501029392
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,10,8.628899300351767,13.526050249221967
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,11,6.267034726759281,6.25463821728509
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,12,8.740608911393196,3.468127840794226
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,13,9.833487112843585,10.953072844111762
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,14,6.20037287542365,2.140652920816103
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,15,2.7645650462754676,1.4472874936149531
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,16,4.789875050568014,2.015027849528063
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,17,8.399442799293022,11.544733063054824
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,18,3.5467961449518923,7.183429147408481
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,19,6.685632931722719,6.982845093776584
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,20,8.582702008607603,6.210263253709468
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,21,9.852170620102717,11.872672333442441
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,22,6.909076231376698,8.919646290594397
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,23,4.558674989394822,4.285659066490846
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,24,0.06311557444929826,0.008190939783004315
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,25,7.186176742238666,14.24960465104232
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,26,8.63564721164102,4.084926419848603
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,27,7.449504882419539,7.395417714584393
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,28,8.140278703054838,9.794006087580916
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,29,9.237190929563866,8.25040263405531
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,30,6.662034160301928,4.82503174405739
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,31,6.071278570102405,5.017863507718995
+distilgpt2,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,32,7.9200576703474255,3.346656150524523
+distilgpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,0,11.164189115282499,23.70415413407264
+distilgpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,1,9.863422413052765,15.820172232500799
+distilgpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,2,9.695970473144287,6.515672108903454
+distilgpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,3,7.733913968012573,18.640427668882754
+distilgpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,4,2.966596849862328,12.263875077984641
+distilgpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,5,8.922871309263376,10.608260699813297
+distilgpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,6,4.624121955284759,2.8949430301027523
+distilgpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,7,9.828574600404341,9.226488793165975
+distilgpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,8,9.924201769798286,8.761731132641563
+distilgpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,9,7.70542538586245,2.6484810565093433
+distilgpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,10,10.354719060397121,9.760005805435942
+distilgpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,11,10.277427993307564,6.222349506481502
+distilgpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,12,10.653928972923408,9.623832006274581
+distilgpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,13,8.118054416979742,8.352491535607475
+distilgpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,14,9.601604280546468,4.432697009707211
+distilgpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,15,9.278283088299819,17.54840525310306
+distilgpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,16,8.769171102117888,6.137372878690189
+distilgpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,17,9.338391712706974,5.0299435691155985
+distilgpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,18,9.58918644522357,7.620498977005188
+distilgpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,19,7.773769915454124,4.685931488108946
+distilgpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,20,1.8221235091877936,0.7913571860618087
+distilgpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,21,9.16123926335923,10.569678111918735
+distilgpt2,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,22,7.512472546414638,5.933077439452672
+distilgpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,0,11.164189115282499,26.298411984470004
+distilgpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,1,6.134375565050952,8.553297102893684
+distilgpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,2,7.6799609466450995,2.1295880730075427
+distilgpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,3,8.080860760973549,5.991601071749476
+distilgpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,4,10.653569873148406,7.84786967247427
+distilgpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,5,9.459661495344564,8.406287020866758
+distilgpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,6,6.388250850809802,5.897380720439588
+distilgpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,7,3.4796988335442762,0.6768724199703949
+distilgpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,8,1.8685258042517863,0.6602378710179797
+distilgpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,9,7.204547241073227,5.315386614405619
+distilgpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,10,8.274723732609726,4.52955867056905
+distilgpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,11,10.684073404036036,11.975611517220472
+distilgpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,12,4.909756245282539,2.8039734948594734
+distilgpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,13,3.0665744923924994,1.2398400423437483
+distilgpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,14,0.14567665753912332,0.017111861271210282
+distilgpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,15,7.306808125276254,7.491543633665841
+distilgpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,16,9.341371140150521,14.633010390125003
+distilgpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,17,0.6721839149338985,13.697965482885637
+distilgpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,18,8.433682481287997,3.241275157069544
+distilgpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,19,10.544367081225953,15.520561944363303
+distilgpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,20,1.2549159555270568,0.2563673573655153
+distilgpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,21,0.011234187569780773,0.0011769130535891935
+distilgpt2,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,22,5.901308804185295,4.399114301438532
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,0,11.214993478277975,19.482340531026896
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,1,8.892067152702037,16.50381840415374
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,2,10.561332825768268,8.558914744201466
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,3,6.5268523570707435,2.004804512830174
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,4,9.490280598573575,16.729331686993504
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,5,8.96342757005924,7.373916443573525
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,6,9.450955733557889,13.455857938029423
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,7,8.142167760491915,7.184771987946418
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,8,9.860512466600168,15.828196255059455
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,9,7.129447232955663,6.32813878674963
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,10,10.008841999524511,10.206678458326225
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,11,8.378451972789914,4.226380774322056
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,12,5.882927298461078,7.604824478205552
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,13,4.525711418669249,0.8228461775388838
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,14,0.33854909509765757,7.302608308942183
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,15,9.929225726995291,10.841766360403957
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,16,5.942136797569522,2.7090182616824485
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,17,10.626943519141825,6.301019186500375
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,18,10.167648027608816,7.914790185716799
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,19,9.771248655288145,8.614665328235757
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,20,4.944453057163507,5.1726857296787125
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,21,9.651565928552717,4.797498009584857
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,22,9.880857326266634,12.663705848155328
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,23,7.477838680183885,4.297245193714171
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,24,9.920003329325423,12.574408328243736
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,25,7.231310493269894,4.022051970450272
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,26,6.879333551736484,6.112776607894394
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,27,5.158174521529512,2.3103698722364454
+distilgpt2,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,28,9.077582086465334,3.8350339083184335
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,0,10.180967052022234,14.317127791493473
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,1,7.198475565567167,5.7658446054413925
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,2,1.1710810345634957,0.47749645846948363
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,3,8.510518826248672,6.894629000773619
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,4,10.519671060492657,13.01746728167409
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,5,1.1457841064480851,0.13956946761565953
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,6,2.4336845285927944,1.3359703469827933
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,7,1.644698811303733,0.24399881656992065
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,8,7.368504493516173,15.722951127898657
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,9,2.7218918510301333,0.6179099739399151
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,10,6.603690077892626,5.32655723154446
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,11,7.979474924498112,4.365534000926965
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,12,8.295952583101627,1.7878174418895858
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,13,10.352790790915646,13.6262996243405
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,14,0.6726845134348974,0.10798087668590353
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,15,0.006231722829676418,0.0005918428971009289
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,16,6.890982280644724,12.230786991819844
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,17,5.299859332755122,2.5500166893241136
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,18,6.263188506755386,8.597844737050771
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,19,0.7051635230416643,0.09736684914983282
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,20,7.851224710027301,11.318449297939196
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,21,3.0103956715575593,3.1381299380757812
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,22,0.03515996115974174,0.0038795228318980837
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,23,7.812468763620669,2.9475855436706513
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,24,10.584421152681298,12.501366608491697
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,25,4.433626747917775,1.7388907854762288
+gpt2-medium,0,El sistema eléctrico requiere de una coordinación precisa entre generación y demanda.,26,7.847346157285044,6.102919250277541
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,0,10.789092202028298,22.32922025762362
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,1,5.968249267415324,9.063747114099327
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,2,5.73350498777315,3.8755237838110648
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,3,0.6074147756666749,0.12031398905542047
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,4,7.535761061133273,15.431364862319816
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,5,7.634439890684128,11.586293702531728
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,6,6.898525439711566,12.474149322096753
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,7,7.5390982124906145,3.1003278074508342
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,8,1.4942695421950043,1.142219680017628
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,9,7.14948321178118,10.373251910854096
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,10,4.942383761908325,2.9818885152811436
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,11,5.264273370569192,2.7826705198450497
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,12,4.688475799445811,7.604946929852966
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,13,7.229934632062991,3.12230306264748
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,14,8.985622275118388,17.413808878815413
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,15,5.350437366582063,6.316698500814236
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,16,6.883361385419691,14.536462081653037
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,17,6.40015824162494,12.550084477966907
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,18,4.2837053435770445,1.502187451458077
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,19,8.465997333454515,9.006393651758994
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,20,5.616770731604114,4.07270877233131
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,21,0.8644682148221446,4.457941655096759
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,22,3.3535485272405006,1.2507162251843122
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,23,6.929659802962562,10.667550686802345
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,24,2.9493903296088058,0.5469949056571208
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,25,0.8949516237396249,0.16453578058261767
+gpt2-medium,1,La optimización convexa ofrece garantías de optimalidad global bajo ciertas condiciones.,26,6.604102836254697,3.826463668860638
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,0,10.180967052022234,18.07947529621655
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,1,6.848983429373422,4.03192033495678
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,2,5.538518281496234,3.9786232554196976
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,3,6.5584242441855345,4.423227988916007
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,4,0.13335990501926967,0.014714863823725565
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,5,8.387615896358488,5.639882448157661
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,6,8.811317170538327,12.235291561411243
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,7,7.61909009512932,4.904173688435532
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,8,1.8918504353271022,5.564923121848503
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,9,7.327356612401341,7.03856472093372
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,10,9.0823590765757,11.65562472460875
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,11,4.830372149331982,3.1462162183540485
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,12,8.283175648003729,5.478836861993822
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,13,6.798607647143895,2.5264069110136673
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,14,10.08339441488173,10.917310083760746
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,15,8.12887556537203,14.794594281986043
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,16,0.2976123226867595,0.04299556866268997
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,17,5.9652430106782415,10.244641908677682
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,18,0.8692926721441482,0.1260120000057346
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,19,8.371214254911003,5.881248747788656
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,20,8.71704109684956,12.177257735704098
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,21,3.4746814116880045,3.5946341511852875
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,22,8.733197835002215,4.967025436123949
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,23,6.903656026152105,5.868936165848086
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,24,10.270619544125207,8.665268815495027
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,25,5.076497896842954,3.7393833492839703
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,26,7.8883929126011685,9.599942928139132
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,27,1.9927046734287213,3.047424912149529
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,28,0.09152141682098225,0.009628749678193351
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,29,7.143134988172532,17.954907574266016
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,30,4.623260322203936,1.3182548440740425
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,31,3.466115987744433,5.736085415466696
+gpt2-medium,2,El aprendizaje por refuerzo se basa en la interacción entre un agente y su entorno mediante recompensas.,32,6.041482231875121,3.2094336011582
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,0,0.11158182793183766,36.724602906982085
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,1,9.338342181703524,16.469871780595835
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,2,3.614975915164039,5.238464966050116
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,3,7.500197800657257,23.43436701345596
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,4,4.656110728345241,5.867726095916615
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,5,1.2456558936566504,4.732993508621649
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,6,1.399558782356181,0.18045963272817375
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,7,8.157891790295,8.927957868145295
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,8,10.450960551819948,11.551044138410886
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,9,4.777501242803737,10.285952141414928
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,10,8.201199773504669,4.8674295950786926
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,11,8.726127284259944,9.691359962239957
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,12,2.602863862246539,0.5323856673969287
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,13,3.572819871749849,2.0039879392038773
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,14,7.133100144459989,3.804757738495243
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,15,8.10722845307323,2.6871044042921604
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,16,10.896743022509366,8.021504732646568
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,17,1.959954877138171,0.4709820566244394
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,18,0.33403678628697003,13.916830604373647
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,19,0.38408197486587603,0.03994180977999398
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,20,0.005326374244691171,0.0004935057702050486
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,21,6.487601100629626,1.3543041275213958
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,22,8.093758771857654,11.417547765158156
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,23,6.565235445090305,2.0026280723835055
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,24,0.0485601022653321,0.005074014225513892
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,25,0.18491415536817138,0.02077652402760232
+gpt2-medium,3,Las redes neuronales convolucionales son ampliamente utilizadas en el procesamiento de imágenes.,26,9.18563947393304,3.5992013224616004
+gpt2-medium,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,0,10.789092202028298,13.18748107514982
+gpt2-medium,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,1,10.279916238300247,7.973631641952397
+gpt2-medium,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,2,6.958171774753202,2.0602118194933436
+gpt2-medium,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,3,7.380424267082173,6.025793286532813
+gpt2-medium,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,4,0.30861106466389465,0.05113607453332877
+gpt2-medium,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,5,8.377506068210169,14.522139366489181
+gpt2-medium,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,6,3.82455844505438,10.523281320299569
+gpt2-medium,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,7,0.59942669748205,0.18933731267221787
+gpt2-medium,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,8,7.329123906121608,7.268611466450227
+gpt2-medium,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,9,7.070720661130841,2.966799789390346
+gpt2-medium,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,10,6.801718469332702,14.83866311644313
+gpt2-medium,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,11,3.2906448407915234,13.543302172895316
+gpt2-medium,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,12,5.233077437529188,5.087288432323389
+gpt2-medium,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,13,9.054459363022131,6.484541185305475
+gpt2-medium,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,14,8.571709565495055,2.811285853208858
+gpt2-medium,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,15,11.165583550615693,10.007709665751232
+gpt2-medium,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,16,0.16453248066550424,0.02566070098150348
+gpt2-medium,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,17,7.113765854849992,1.7569818125031385
+gpt2-medium,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,18,9.128815718157366,8.059566557074318
+gpt2-medium,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,19,6.226358078107813,3.528013575685863
+gpt2-medium,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,20,0.5166631854377016,3.5350057023393413
+gpt2-medium,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,21,0.37050575039809136,0.045727338401765905
+gpt2-medium,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,22,9.462296269555782,12.454264000073392
+gpt2-medium,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,23,3.213760684653908,2.628736244311737
+gpt2-medium,4,La eficiencia energética es un factor clave en el diseño de sistemas modernos.,24,6.213530924075862,2.8798723623902953
+gpt2-medium,5,Los sistemas embebidos requieren controladores robustos y eficientes.,0,0.029233809848600273,28.36460604849096
+gpt2-medium,5,Los sistemas embebidos requieren controladores robustos y eficientes.,1,7.919794880856907,6.340265627427269
+gpt2-medium,5,Los sistemas embebidos requieren controladores robustos y eficientes.,2,1.190981491060133,1.4262397408544099
+gpt2-medium,5,Los sistemas embebidos requieren controladores robustos y eficientes.,3,5.605790327277127,2.018768128219027
+gpt2-medium,5,Los sistemas embebidos requieren controladores robustos y eficientes.,4,8.782018894067942,8.508772858377112
+gpt2-medium,5,Los sistemas embebidos requieren controladores robustos y eficientes.,5,10.3229820699375,11.205138184452933
+gpt2-medium,5,Los sistemas embebidos requieren controladores robustos y eficientes.,6,6.345994713492811,10.986524845565786
+gpt2-medium,5,Los sistemas embebidos requieren controladores robustos y eficientes.,7,5.546019820761568,2.65944942205077
+gpt2-medium,5,Los sistemas embebidos requieren controladores robustos y eficientes.,8,7.9889497926994455,14.569393319640247
+gpt2-medium,5,Los sistemas embebidos requieren controladores robustos y eficientes.,9,3.8554651032756335,5.4517158858833605
+gpt2-medium,5,Los sistemas embebidos requieren controladores robustos y eficientes.,10,1.5743639264936247,2.5067102539583024
+gpt2-medium,5,Los sistemas embebidos requieren controladores robustos y eficientes.,11,7.76809036039203,17.343135016200453
+gpt2-medium,5,Los sistemas embebidos requieren controladores robustos y eficientes.,12,5.8847496266296195,8.085945256063656
+gpt2-medium,5,Los sistemas embebidos requieren controladores robustos y eficientes.,13,0.7933017079037891,0.2050801315799095
+gpt2-medium,5,Los sistemas embebidos requieren controladores robustos y eficientes.,14,7.240127011883725,15.934105923183186
+gpt2-medium,5,Los sistemas embebidos requieren controladores robustos y eficientes.,15,3.3078816299915976,1.299372524870513
+gpt2-medium,5,Los sistemas embebidos requieren controladores robustos y eficientes.,16,6.872360687139902,2.936465145465862
+gpt2-medium,5,Los sistemas embebidos requieren controladores robustos y eficientes.,17,10.439338652205244,8.23323394998498
+gpt2-medium,5,Los sistemas embebidos requieren controladores robustos y eficientes.,18,4.3247744566377815,3.8981174886202137
+gpt2-medium,5,Los sistemas embebidos requieren controladores robustos y eficientes.,19,4.048497054742843,3.552072572680363
+gpt2-medium,5,Los sistemas embebidos requieren controladores robustos y eficientes.,20,0.5422115521886736,0.1013034352878414
+gpt2-medium,5,Los sistemas embebidos requieren controladores robustos y eficientes.,21,7.850709450005317,4.198986689762025
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,0,10.180967052022234,21.55484567040391
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,1,8.990822342549874,2.982301961573818
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,2,8.244211946554854,8.174091868075672
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,3,7.561612117349763,5.88365719283134
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,4,0.19068821489691387,0.01879377097978096
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,5,0.03064121374856255,0.0025056740235528782
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,6,2.247826833406327,1.196466447752775
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,7,7.892289351539116,15.456777018811305
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,8,6.0315024226108545,2.93136792365959
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,9,5.769355459276106,9.030016500750905
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,10,5.240524630276849,16.328969834396954
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,11,5.89562718533139,2.5461121672015756
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,12,7.946514793425556,4.5319461337283276
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,13,9.425729318329331,12.958778546032459
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,14,1.515402942315677,0.2183953078815158
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,15,1.2670247380263544,2.516710873123324
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,16,1.6676354495187025,0.7970762111422751
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,17,8.144766762311754,11.39088013531537
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,18,3.0524887693215335,4.056267918839429
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,19,2.0175057755616943,0.8767885359820037
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,20,6.737605400882857,3.4439567111113636
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,21,10.408037809748212,12.509376872438283
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,22,3.75318082943209,0.8776354645461776
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,23,3.246761403632067,3.1195200393912184
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,24,0.3107571071770235,0.05718462374730615
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,25,6.953440188062665,13.886224571826101
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,26,5.015543805724158,1.2332237837737305
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,27,4.444049240525363,1.5551362661271626
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,28,6.2712414223993855,10.673574895096767
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,29,8.01257126583015,5.323126865590351
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,30,4.625010417659116,1.1085624172698
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,31,4.77059510747569,3.7362831900195177
+gpt2-medium,6,El transporte público sustentable depende de políticas integradas y planificación urbana adecuada.,32,6.823543067727192,4.188469606696462
+gpt2-medium,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,0,10.789092202028298,26.14199582730209
+gpt2-medium,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,1,7.487654761964531,4.363024430085575
+gpt2-medium,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,2,3.698346224996294,0.8965698085015931
+gpt2-medium,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,3,8.57671770028818,18.133066466086607
+gpt2-medium,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,4,6.690431247681792,10.68728741581536
+gpt2-medium,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,5,8.067114531655385,6.726167178739273
+gpt2-medium,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,6,1.6396961799554357,0.491918880575176
+gpt2-medium,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,7,10.015684157306438,7.782430961751575
+gpt2-medium,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,8,8.028176971569442,2.4508674872231486
+gpt2-medium,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,9,0.31856683935270363,0.0542783910450745
+gpt2-medium,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,10,8.685511861432182,5.015953812363814
+gpt2-medium,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,11,8.166794300234262,3.6637474432263177
+gpt2-medium,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,12,10.66232929352215,10.976062796948499
+gpt2-medium,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,13,5.143079260297982,4.272404707554151
+gpt2-medium,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,14,9.178274488892491,3.6869616614397795
+gpt2-medium,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,15,9.270817665391165,16.039289136589673
+gpt2-medium,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,16,7.501496613636573,3.5423579606637268
+gpt2-medium,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,17,8.679644501315348,5.4553502232613935
+gpt2-medium,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,18,7.509723575723247,8.437309939359995
+gpt2-medium,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,19,4.803715870344152,2.1664790395482187
+gpt2-medium,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,20,0.22885236900192715,0.04063855449430193
+gpt2-medium,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,21,7.481024486808468,9.080290469251121
+gpt2-medium,7,La inteligencia artificial puede mejorar la toma de decisiones en tiempo real.,22,3.7269816803302533,6.081117353592965
+gpt2-medium,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,0,10.789092202028298,19.303734484314056
+gpt2-medium,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,1,5.435206583296436,4.29223774685165
+gpt2-medium,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,2,8.626005864233651,4.461628275200654
+gpt2-medium,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,3,7.870360187692901,5.566814587042692
+gpt2-medium,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,4,10.65176474324495,9.1364971512755
+gpt2-medium,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,5,2.33474273756877,0.477479002230421
+gpt2-medium,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,6,1.082422602182511,0.21003542470355688
+gpt2-medium,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,7,0.011057373281320287,0.0009033140167893949
+gpt2-medium,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,8,0.027623713645680496,0.0037784937734318623
+gpt2-medium,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,9,7.241805562556146,4.724943000734761
+gpt2-medium,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,10,7.459565867495014,5.124484496086695
+gpt2-medium,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,11,10.416907299018508,9.696103931681357
+gpt2-medium,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,12,0.5867478354908048,0.0932221855021116
+gpt2-medium,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,13,0.33849504954962395,0.06323525825092526
+gpt2-medium,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,14,0.007472307589145149,0.000656308469186488
+gpt2-medium,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,15,7.454315581129474,8.535559500214296
+gpt2-medium,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,16,1.5033856545866382,23.991786174542842
+gpt2-medium,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,17,0.4093259323248208,11.054164246288922
+gpt2-medium,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,18,7.681251504457174,2.6827688936465597
+gpt2-medium,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,19,10.50417955123354,12.023873976636196
+gpt2-medium,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,20,0.04700074094441685,0.006343886421171546
+gpt2-medium,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,21,0.0032017691002694864,0.00029251282462964076
+gpt2-medium,8,La gestión del conocimiento en las organizaciones es fundamental para la innovación.,22,5.922034777406073,4.889454037313485
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,0,10.180967052022234,21.078016203650137
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,1,10.359328195440243,13.365992187439382
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,2,9.83086265759142,13.755426950330712
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,3,3.316484546153057,0.9504533488781179
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,4,8.385766738896411,14.64653235406644
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,5,4.936005957283729,5.340961122519523
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,6,7.212329112059468,12.688624070473537
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,7,3.027511728936728,1.143015357751845
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,8,8.739054876159999,17.791817114383417
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,9,5.145970976589589,2.7818898905927836
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,10,6.601822346304256,11.421056211235758
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,11,5.557394065359031,3.8707990764265614
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,12,5.54252203760832,4.305225532679508
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,13,1.1311003997000695,0.37886169947291176
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,14,0.3986388444088804,4.157152941835552
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,15,7.973938459001536,12.76101088029109
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,16,2.1324651707738265,1.1529870838315213
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,17,2.9280854627852224,0.421642598853349
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,18,8.43650574848456,6.0793989029455435
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,19,8.744433117617781,7.74885719658074
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,20,2.580890154893751,0.6942410768680182
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,21,6.488988656656788,1.6334573373127366
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,22,9.462122911043712,9.057764869571715
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,23,0.3363039045863063,0.051740163594484384
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,24,8.511605756602124,12.952877477316054
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,25,0.7039269247862979,0.1070870935982852
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,26,0.9988002517754164,0.19963399997069967
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,27,0.5951247664490305,0.14731923159076696
+gpt2-medium,9,El modelamiento predictivo permite anticipar comportamientos futuros a partir de datos históricos.,28,6.324862173285392,3.6305334657610886
