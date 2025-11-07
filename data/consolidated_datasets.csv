@@ -1,0 +1,210 @@
+prompt,answer,category,source
+The capital of France is,Paris,factual,lama-synthetic
+The capital of Germany is,Berlin,factual,lama-synthetic
+The capital of Italy is,Rome,factual,lama-synthetic
+The capital of Spain is,Madrid,factual,lama-synthetic
+The capital of Japan is,Tokyo,factual,lama-synthetic
+The official language of France is,French,factual,lama-synthetic
+The official language of Spain is,Spanish,factual,lama-synthetic
+The currency of United States is,Dollar,factual,lama-synthetic
+The currency of United Kingdom is,Pound,factual,lama-synthetic
+The currency of Japan is,Yen,factual,lama-synthetic
+Water freezes at,0 degrees Celsius,factual,lama-synthetic
+The chemical symbol for gold is,Au,factual,lama-synthetic
+The largest planet in our solar system is,Jupiter,factual,lama-synthetic
+The smallest planet in our solar system is,Mercury,factual,lama-synthetic
+The Sun is a,star,factual,lama-synthetic
+The Song of Hiawatha is based on the legends and stories of,,creative,gutenberg-poetry
+"many North American Indian tribes, but especially those of the",,creative,gutenberg-poetry
+"Ojibway Indians of northern Michigan, Wisconsin, and Minnesota.",,creative,gutenberg-poetry
+"They were collected by Henry Rowe Schoolcraft, the reknowned",,creative,gutenberg-poetry
+"Schoolcraft married Jane, O-bah-bahm-wawa-ge-zhe-go-qua (The",,creative,gutenberg-poetry
+"fur trader, and O-shau-gus-coday-way-qua (The Woman of the Green",,creative,gutenberg-poetry
+"Prairie), who was a daughter of Waub-o-jeeg (The White Fisher),",,creative,gutenberg-poetry
+"who was Chief of the Ojibway tribe at La Pointe, Wisconsin.",,creative,gutenberg-poetry
+"Jane and her mother are credited with having researched,",,creative,gutenberg-poetry
+"authenticated, and compiled much of the material Schoolcraft",,creative,gutenberg-poetry
+included in his Algic Researches (1839) and a revision published,,creative,gutenberg-poetry
+in 1856 as The Myth of Hiawatha. It was this latter revision,,creative,gutenberg-poetry
+that Longfellow used as the basis for The Song of Hiawatha.,,creative,gutenberg-poetry
+"Longfellow began Hiawatha on June 25, 1854, he completed it",,creative,gutenberg-poetry
+soon as the poem was published its popularity was assured.,,creative,gutenberg-poetry
+"However, it also was severely criticized as a plagiary of the",,creative,gutenberg-poetry
+Finnish epic poem Kalevala. Longfellow made no secret of the,,creative,gutenberg-poetry
+fact that he had used the meter of the Kalevala; but as for the,,creative,gutenberg-poetry
+"legends, he openly gave credit to Schoolcraft in his notes to the",,creative,gutenberg-poetry
+I would add a personal note here. My father's roots include,,creative,gutenberg-poetry
+"Ojibway Indians: his mother, Margaret Caroline Davenport, was a",,creative,gutenberg-poetry
+"daughter of Susan des Carreaux, O-gee-em-a-qua (The Chief Woman),",,creative,gutenberg-poetry
+"Finally, my mother used to rock me to sleep reading portions of",,creative,gutenberg-poetry
+"Light me with your little candle,",,creative,gutenberg-poetry
+"Ere upon my bed I lay me,",,creative,gutenberg-poetry
+"Ere in sleep I close my eyelids!""",,creative,gutenberg-poetry
+"Should you ask me, whence these stories?",,creative,gutenberg-poetry
+"Whence these legends and traditions,",,creative,gutenberg-poetry
+With the odors of the forest,,creative,gutenberg-poetry
+"With the dew and damp of meadows,",,creative,gutenberg-poetry
+"With the curling smoke of wigwams,",,creative,gutenberg-poetry
+"With the rushing of great rivers,",,creative,gutenberg-poetry
+As of thunder in the mountains?,,creative,gutenberg-poetry
+"I should answer, I should tell you,",,creative,gutenberg-poetry
+"""From the forests and the prairies,",,creative,gutenberg-poetry
+"From the great lakes of the Northland,",,creative,gutenberg-poetry
+"From the land of the Ojibways,",,creative,gutenberg-poetry
+"From the land of the Dacotahs,",,creative,gutenberg-poetry
+"From the mountains, moors, and fen-lands",,creative,gutenberg-poetry
+"Where the heron, the Shuh-shuh-gah,",,creative,gutenberg-poetry
+Feeds among the reeds and rushes.,,creative,gutenberg-poetry
+I repeat them as I heard them,,creative,gutenberg-poetry
+"From the lips of Nawadaha,",,creative,gutenberg-poetry
+"The musician, the sweet singer.""",,creative,gutenberg-poetry
+"Premise: A person on a horse jumps over a broken down airplane.
+Hypothesis: A person is training his horse for a competition.
+Relation:",neutral,logical,snli
+"Premise: A person on a horse jumps over a broken down airplane.
+Hypothesis: A person is at a diner, ordering an omelette.
+Relation:",contradiction,logical,snli
+"Premise: A person on a horse jumps over a broken down airplane.
+Hypothesis: A person is outdoors, on a horse.
+Relation:",entailment,logical,snli
+"Premise: Children smiling and waving at camera
+Hypothesis: They are smiling at their parents
+Relation:",neutral,logical,snli
+"Premise: Children smiling and waving at camera
+Hypothesis: There are children present
+Relation:",entailment,logical,snli
+"Premise: Children smiling and waving at camera
+Hypothesis: The kids are frowning
+Relation:",contradiction,logical,snli
+"Premise: A boy is jumping on skateboard in the middle of a red bridge.
+Hypothesis: The boy skates down the sidewalk.
+Relation:",contradiction,logical,snli
+"Premise: A boy is jumping on skateboard in the middle of a red bridge.
+Hypothesis: The boy does a skateboarding trick.
+Relation:",entailment,logical,snli
+"Premise: A boy is jumping on skateboard in the middle of a red bridge.
+Hypothesis: The boy is wearing safety equipment.
+Relation:",neutral,logical,snli
+"Premise: An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.
+Hypothesis: An older man drinks his juice as he waits for his daughter to get off work.
+Relation:",neutral,logical,snli
+"Premise: An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.
+Hypothesis: A boy flips a burger.
+Relation:",contradiction,logical,snli
+"Premise: An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.
+Hypothesis: An elderly man sits in a small shop.
+Relation:",neutral,logical,snli
+"Premise: Two blond women are hugging one another.
+Hypothesis: Some women are hugging on vacation.
+Relation:",neutral,logical,snli
+"Premise: Two blond women are hugging one another.
+Hypothesis: The women are sleeping.
+Relation:",contradiction,logical,snli
+"Premise: Two blond women are hugging one another.
+Hypothesis: There are women showing affection.
+Relation:",entailment,logical,snli
+"Premise: A few people in a restaurant setting, one of them is drinking orange juice.
+Hypothesis: The people are eating omelettes.
+Relation:",neutral,logical,snli
+"Premise: A few people in a restaurant setting, one of them is drinking orange juice.
+Hypothesis: The people are sitting at desks in school.
+Relation:",contradiction,logical,snli
+"Premise: A few people in a restaurant setting, one of them is drinking orange juice.
+Hypothesis: The diners are at a restaurant.
+Relation:",entailment,logical,snli
+"Premise: An older man is drinking orange juice at a restaurant.
+Hypothesis: A man is drinking juice.
+Relation:",entailment,logical,snli
+"Premise: An older man is drinking orange juice at a restaurant.
+Hypothesis: Two women are at a restaurant drinking wine.
+Relation:",contradiction,logical,snli
+"Premise: An older man is drinking orange juice at a restaurant.
+Hypothesis: A man in a restaurant is waiting for his meal to arrive.
+Relation:",neutral,logical,snli
+"Premise: A man with blond-hair, and a brown shirt drinking out of a public water fountain.
+Hypothesis: A blond man getting a drink of water from a fountain in the park.
+Relation:",neutral,logical,snli
+"Premise: A man with blond-hair, and a brown shirt drinking out of a public water fountain.
+Hypothesis: A blond man wearing a brown shirt is reading a book on a bench in the park
+Relation:",contradiction,logical,snli
+"Premise: A man with blond-hair, and a brown shirt drinking out of a public water fountain.
+Hypothesis: A blond man drinking water from a fountain.
+Relation:",entailment,logical,snli
+"Premise: Two women who just had lunch hugging and saying goodbye.
+Hypothesis: The friends scowl at each other over a full dinner table.
+Relation:",contradiction,logical,snli
+"Premise: Two women who just had lunch hugging and saying goodbye.
+Hypothesis: There are two woman in this picture.
+Relation:",entailment,logical,snli
+"Premise: Two women who just had lunch hugging and saying goodbye.
+Hypothesis: The friends have just met for the first time in 20 years, and have had a great time catching up.
+Relation:",neutral,logical,snli
+"Premise: Two women, holding food carryout containers, hug.
+Hypothesis: The two sisters saw each other across the crowded diner and shared a hug, both clutching their doggie bags.
+Relation:",neutral,logical,snli
+"Premise: Two women, holding food carryout containers, hug.
+Hypothesis: Two groups of rival gang members flipped each other off.
+Relation:",contradiction,logical,snli
+"Premise: Two women, holding food carryout containers, hug.
+Hypothesis: Two women hug each other.
+Relation:",entailment,logical,snli
+"Premise: A Little League team tries to catch a runner sliding into a base in an afternoon game.
+Hypothesis: A team is trying to score the games winning out.
+Relation:",neutral,logical,snli
+"Premise: A Little League team tries to catch a runner sliding into a base in an afternoon game.
+Hypothesis: A team is trying to tag a runner out.
+Relation:",entailment,logical,snli
+"Premise: A Little League team tries to catch a runner sliding into a base in an afternoon game.
+Hypothesis: A team is playing baseball on Saturn.
+Relation:",contradiction,logical,snli
+"Premise: The school is having a special event in order to show the american culture on how other cultures are dealt with in parties.
+Hypothesis: A school hosts a basketball game.
+Relation:",contradiction,logical,snli
+"Premise: The school is having a special event in order to show the american culture on how other cultures are dealt with in parties.
+Hypothesis: A high school is hosting an event.
+Relation:",neutral,logical,snli
+"Premise: The school is having a special event in order to show the american culture on how other cultures are dealt with in parties.
+Hypothesis: A school is hosting an event.
+Relation:",entailment,logical,snli
+"Premise: High fashion ladies wait outside a tram beside a crowd of people in the city.
+Hypothesis: The women do not care what clothes they wear.
+Relation:",contradiction,logical,snli
+"Premise: High fashion ladies wait outside a tram beside a crowd of people in the city.
+Hypothesis: Women are waiting by a tram.
+Relation:",entailment,logical,snli
+"Premise: High fashion ladies wait outside a tram beside a crowd of people in the city.
+Hypothesis: The women enjoy having a good fashion sense.
+Relation:",neutral,logical,snli
+"Premise: A man, woman, and child enjoying themselves on a beach.
+Hypothesis: A child with mom and dad, on summer vacation at the beach.
+Relation:",neutral,logical,snli
+"Premise: A man, woman, and child enjoying themselves on a beach.
+Hypothesis: A family of three is at the beach.
+Relation:",entailment,logical,snli
+"Premise: A man, woman, and child enjoying themselves on a beach.
+Hypothesis: A family of three is at the mall shopping.
+Relation:",contradiction,logical,snli
+"Premise: People waiting to get on a train or just getting off.
+Hypothesis: The people waiting on the train are sitting.
+Relation:",neutral,logical,snli
+"Premise: People waiting to get on a train or just getting off.
+Hypothesis: There are people just getting on a train
+Relation:",entailment,logical,snli
+"Premise: People waiting to get on a train or just getting off.
+Hypothesis: There are people waiting on a train.
+Relation:",entailment,logical,snli
+"Premise: A couple playing with a little boy on the beach.
+Hypothesis: A couple are playing with a young child outside.
+Relation:",entailment,logical,snli
+"Premise: A couple playing with a little boy on the beach.
+Hypothesis: A couple are playing frisbee with a young child at the beach.
+Relation:",neutral,logical,snli
+"Premise: A couple playing with a little boy on the beach.
+Hypothesis: A couple watch a little girl play by herself on the beach.
+Relation:",contradiction,logical,snli
+"Premise: A couple play in the tide with their young son.
+Hypothesis: The family is sitting down for dinner.
+Relation:",contradiction,logical,snli
+"Premise: A couple play in the tide with their young son.
+Hypothesis: The family is outside.
+Relation:",entailment,logical,snli

@@ -1,0 +1,1077 @@
+[
+  {
+    "prompt": "The capital of France is",
+    "answer": "Paris",
+    "category": "factual",
+    "source": "lama-synthetic",
+    "metadata": {
+      "subject": "France"
+    }
+  },
+  {
+    "prompt": "The capital of Germany is",
+    "answer": "Berlin",
+    "category": "factual",
+    "source": "lama-synthetic",
+    "metadata": {
+      "subject": "Germany"
+    }
+  },
+  {
+    "prompt": "The capital of Italy is",
+    "answer": "Rome",
+    "category": "factual",
+    "source": "lama-synthetic",
+    "metadata": {
+      "subject": "Italy"
+    }
+  },
+  {
+    "prompt": "The capital of Spain is",
+    "answer": "Madrid",
+    "category": "factual",
+    "source": "lama-synthetic",
+    "metadata": {
+      "subject": "Spain"
+    }
+  },
+  {
+    "prompt": "The capital of Japan is",
+    "answer": "Tokyo",
+    "category": "factual",
+    "source": "lama-synthetic",
+    "metadata": {
+      "subject": "Japan"
+    }
+  },
+  {
+    "prompt": "The official language of France is",
+    "answer": "French",
+    "category": "factual",
+    "source": "lama-synthetic",
+    "metadata": {
+      "subject": "France"
+    }
+  },
+  {
+    "prompt": "The official language of Spain is",
+    "answer": "Spanish",
+    "category": "factual",
+    "source": "lama-synthetic",
+    "metadata": {
+      "subject": "Spain"
+    }
+  },
+  {
+    "prompt": "The currency of United States is",
+    "answer": "Dollar",
+    "category": "factual",
+    "source": "lama-synthetic",
+    "metadata": {
+      "subject": "United States"
+    }
+  },
+  {
+    "prompt": "The currency of United Kingdom is",
+    "answer": "Pound",
+    "category": "factual",
+    "source": "lama-synthetic",
+    "metadata": {
+      "subject": "United Kingdom"
+    }
+  },
+  {
+    "prompt": "The currency of Japan is",
+    "answer": "Yen",
+    "category": "factual",
+    "source": "lama-synthetic",
+    "metadata": {
+      "subject": "Japan"
+    }
+  },
+  {
+    "prompt": "Water freezes at",
+    "answer": "0 degrees Celsius",
+    "category": "factual",
+    "source": "lama-synthetic",
+    "metadata": {
+      "subject": "water"
+    }
+  },
+  {
+    "prompt": "The chemical symbol for gold is",
+    "answer": "Au",
+    "category": "factual",
+    "source": "lama-synthetic",
+    "metadata": {
+      "subject": "gold"
+    }
+  },
+  {
+    "prompt": "The largest planet in our solar system is",
+    "answer": "Jupiter",
+    "category": "factual",
+    "source": "lama-synthetic",
+    "metadata": {
+      "subject": "solar system"
+    }
+  },
+  {
+    "prompt": "The smallest planet in our solar system is",
+    "answer": "Mercury",
+    "category": "factual",
+    "source": "lama-synthetic",
+    "metadata": {
+      "subject": "solar system"
+    }
+  },
+  {
+    "prompt": "The Sun is a",
+    "answer": "star",
+    "category": "factual",
+    "source": "lama-synthetic",
+    "metadata": {
+      "subject": "Sun"
+    }
+  },
+  {
+    "prompt": "The Song of Hiawatha is based on the legends and stories of",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "The Song of Hiawatha is based on the legends and stories of"
+    }
+  },
+  {
+    "prompt": "many North American Indian tribes, but especially those of the",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "many North American Indian tribes, but especially those of the"
+    }
+  },
+  {
+    "prompt": "Ojibway Indians of northern Michigan, Wisconsin, and Minnesota.",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "Ojibway Indians of northern Michigan, Wisconsin, and Minnesota."
+    }
+  },
+  {
+    "prompt": "They were collected by Henry Rowe Schoolcraft, the reknowned",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "They were collected by Henry Rowe Schoolcraft, the reknowned"
+    }
+  },
+  {
+    "prompt": "Schoolcraft married Jane, O-bah-bahm-wawa-ge-zhe-go-qua (The",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "Schoolcraft married Jane, O-bah-bahm-wawa-ge-zhe-go-qua (The"
+    }
+  },
+  {
+    "prompt": "fur trader, and O-shau-gus-coday-way-qua (The Woman of the Green",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "fur trader, and O-shau-gus-coday-way-qua (The Woman of the Green"
+    }
+  },
+  {
+    "prompt": "Prairie), who was a daughter of Waub-o-jeeg (The White Fisher),",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "Prairie), who was a daughter of Waub-o-jeeg (The White Fisher),"
+    }
+  },
+  {
+    "prompt": "who was Chief of the Ojibway tribe at La Pointe, Wisconsin.",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "who was Chief of the Ojibway tribe at La Pointe, Wisconsin."
+    }
+  },
+  {
+    "prompt": "Jane and her mother are credited with having researched,",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "Jane and her mother are credited with having researched,"
+    }
+  },
+  {
+    "prompt": "authenticated, and compiled much of the material Schoolcraft",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "authenticated, and compiled much of the material Schoolcraft"
+    }
+  },
+  {
+    "prompt": "included in his Algic Researches (1839) and a revision published",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "included in his Algic Researches (1839) and a revision published"
+    }
+  },
+  {
+    "prompt": "in 1856 as The Myth of Hiawatha. It was this latter revision",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "in 1856 as The Myth of Hiawatha.  It was this latter revision"
+    }
+  },
+  {
+    "prompt": "that Longfellow used as the basis for The Song of Hiawatha.",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "that Longfellow used as the basis for The Song of Hiawatha."
+    }
+  },
+  {
+    "prompt": "Longfellow began Hiawatha on June 25, 1854, he completed it",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "Longfellow began Hiawatha on June 25, 1854, he completed it"
+    }
+  },
+  {
+    "prompt": "soon as the poem was published its popularity was assured.",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "soon as the poem was  published its popularity was assured."
+    }
+  },
+  {
+    "prompt": "However, it also was severely criticized as a plagiary of the",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "However, it also was severely criticized as a plagiary of the"
+    }
+  },
+  {
+    "prompt": "Finnish epic poem Kalevala. Longfellow made no secret of the",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "Finnish epic poem Kalevala.  Longfellow made no secret of the"
+    }
+  },
+  {
+    "prompt": "fact that he had used the meter of the Kalevala; but as for the",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "fact that he had used the meter of the Kalevala; but as for the"
+    }
+  },
+  {
+    "prompt": "legends, he openly gave credit to Schoolcraft in his notes to the",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "legends, he openly gave credit to Schoolcraft in his notes to the"
+    }
+  },
+  {
+    "prompt": "I would add a personal note here. My father's roots include",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "I would add a personal note here.  My father's roots include"
+    }
+  },
+  {
+    "prompt": "Ojibway Indians: his mother, Margaret Caroline Davenport, was a",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "Ojibway Indians: his mother, Margaret Caroline Davenport, was a"
+    }
+  },
+  {
+    "prompt": "daughter of Susan des Carreaux, O-gee-em-a-qua (The Chief Woman),",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "daughter of Susan des Carreaux, O-gee-em-a-qua (The Chief Woman),"
+    }
+  },
+  {
+    "prompt": "Finally, my mother used to rock me to sleep reading portions of",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "Finally, my mother used to rock me to sleep reading portions of"
+    }
+  },
+  {
+    "prompt": "Light me with your little candle,",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "Light me with your little candle,"
+    }
+  },
+  {
+    "prompt": "Ere upon my bed I lay me,",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "Ere upon my bed I lay me,"
+    }
+  },
+  {
+    "prompt": "Ere in sleep I close my eyelids!\"",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "Ere in sleep I close my eyelids!\""
+    }
+  },
+  {
+    "prompt": "Should you ask me, whence these stories?",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "Should you ask me, whence these stories?"
+    }
+  },
+  {
+    "prompt": "Whence these legends and traditions,",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "Whence these legends and traditions,"
+    }
+  },
+  {
+    "prompt": "With the odors of the forest",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "With the odors of the forest"
+    }
+  },
+  {
+    "prompt": "With the dew and damp of meadows,",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "With the dew and damp of meadows,"
+    }
+  },
+  {
+    "prompt": "With the curling smoke of wigwams,",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "With the curling smoke of wigwams,"
+    }
+  },
+  {
+    "prompt": "With the rushing of great rivers,",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "With the rushing of great rivers,"
+    }
+  },
+  {
+    "prompt": "As of thunder in the mountains?",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "As of thunder in the mountains?"
+    }
+  },
+  {
+    "prompt": "I should answer, I should tell you,",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "I should answer, I should tell you,"
+    }
+  },
+  {
+    "prompt": "\"From the forests and the prairies,",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "\"From the forests and the prairies,"
+    }
+  },
+  {
+    "prompt": "From the great lakes of the Northland,",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "From the great lakes of the Northland,"
+    }
+  },
+  {
+    "prompt": "From the land of the Ojibways,",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "From the land of the Ojibways,"
+    }
+  },
+  {
+    "prompt": "From the land of the Dacotahs,",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "From the land of the Dacotahs,"
+    }
+  },
+  {
+    "prompt": "From the mountains, moors, and fen-lands",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "From the mountains, moors, and fen-lands"
+    }
+  },
+  {
+    "prompt": "Where the heron, the Shuh-shuh-gah,",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "Where the heron, the Shuh-shuh-gah,"
+    }
+  },
+  {
+    "prompt": "Feeds among the reeds and rushes.",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "Feeds among the reeds and rushes."
+    }
+  },
+  {
+    "prompt": "I repeat them as I heard them",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "I repeat them as I heard them"
+    }
+  },
+  {
+    "prompt": "From the lips of Nawadaha,",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "From the lips of Nawadaha,"
+    }
+  },
+  {
+    "prompt": "The musician, the sweet singer.\"",
+    "answer": null,
+    "category": "creative",
+    "source": "gutenberg-poetry",
+    "metadata": {
+      "gutenberg_id": "19",
+      "full_line": "The musician, the sweet singer.\""
+    }
+  },
+  {
+    "prompt": "Premise: A person on a horse jumps over a broken down airplane.\nHypothesis: A person is training his horse for a competition.\nRelation:",
+    "answer": "neutral",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "A person on a horse jumps over a broken down airplane.",
+      "hypothesis": "A person is training his horse for a competition."
+    }
+  },
+  {
+    "prompt": "Premise: A person on a horse jumps over a broken down airplane.\nHypothesis: A person is at a diner, ordering an omelette.\nRelation:",
+    "answer": "contradiction",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "A person on a horse jumps over a broken down airplane.",
+      "hypothesis": "A person is at a diner, ordering an omelette."
+    }
+  },
+  {
+    "prompt": "Premise: A person on a horse jumps over a broken down airplane.\nHypothesis: A person is outdoors, on a horse.\nRelation:",
+    "answer": "entailment",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "A person on a horse jumps over a broken down airplane.",
+      "hypothesis": "A person is outdoors, on a horse."
+    }
+  },
+  {
+    "prompt": "Premise: Children smiling and waving at camera\nHypothesis: They are smiling at their parents\nRelation:",
+    "answer": "neutral",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "Children smiling and waving at camera",
+      "hypothesis": "They are smiling at their parents"
+    }
+  },
+  {
+    "prompt": "Premise: Children smiling and waving at camera\nHypothesis: There are children present\nRelation:",
+    "answer": "entailment",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "Children smiling and waving at camera",
+      "hypothesis": "There are children present"
+    }
+  },
+  {
+    "prompt": "Premise: Children smiling and waving at camera\nHypothesis: The kids are frowning\nRelation:",
+    "answer": "contradiction",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "Children smiling and waving at camera",
+      "hypothesis": "The kids are frowning"
+    }
+  },
+  {
+    "prompt": "Premise: A boy is jumping on skateboard in the middle of a red bridge.\nHypothesis: The boy skates down the sidewalk.\nRelation:",
+    "answer": "contradiction",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "A boy is jumping on skateboard in the middle of a red bridge.",
+      "hypothesis": "The boy skates down the sidewalk."
+    }
+  },
+  {
+    "prompt": "Premise: A boy is jumping on skateboard in the middle of a red bridge.\nHypothesis: The boy does a skateboarding trick.\nRelation:",
+    "answer": "entailment",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "A boy is jumping on skateboard in the middle of a red bridge.",
+      "hypothesis": "The boy does a skateboarding trick."
+    }
+  },
+  {
+    "prompt": "Premise: A boy is jumping on skateboard in the middle of a red bridge.\nHypothesis: The boy is wearing safety equipment.\nRelation:",
+    "answer": "neutral",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "A boy is jumping on skateboard in the middle of a red bridge.",
+      "hypothesis": "The boy is wearing safety equipment."
+    }
+  },
+  {
+    "prompt": "Premise: An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.\nHypothesis: An older man drinks his juice as he waits for his daughter to get off work.\nRelation:",
+    "answer": "neutral",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.",
+      "hypothesis": "An older man drinks his juice as he waits for his daughter to get off work."
+    }
+  },
+  {
+    "prompt": "Premise: An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.\nHypothesis: A boy flips a burger.\nRelation:",
+    "answer": "contradiction",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.",
+      "hypothesis": "A boy flips a burger."
+    }
+  },
+  {
+    "prompt": "Premise: An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.\nHypothesis: An elderly man sits in a small shop.\nRelation:",
+    "answer": "neutral",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.",
+      "hypothesis": "An elderly man sits in a small shop."
+    }
+  },
+  {
+    "prompt": "Premise: Two blond women are hugging one another.\nHypothesis: Some women are hugging on vacation.\nRelation:",
+    "answer": "neutral",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "Two blond women are hugging one another.",
+      "hypothesis": "Some women are hugging on vacation."
+    }
+  },
+  {
+    "prompt": "Premise: Two blond women are hugging one another.\nHypothesis: The women are sleeping.\nRelation:",
+    "answer": "contradiction",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "Two blond women are hugging one another.",
+      "hypothesis": "The women are sleeping."
+    }
+  },
+  {
+    "prompt": "Premise: Two blond women are hugging one another.\nHypothesis: There are women showing affection.\nRelation:",
+    "answer": "entailment",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "Two blond women are hugging one another.",
+      "hypothesis": "There are women showing affection."
+    }
+  },
+  {
+    "prompt": "Premise: A few people in a restaurant setting, one of them is drinking orange juice.\nHypothesis: The people are eating omelettes.\nRelation:",
+    "answer": "neutral",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "A few people in a restaurant setting, one of them is drinking orange juice.",
+      "hypothesis": "The people are eating omelettes."
+    }
+  },
+  {
+    "prompt": "Premise: A few people in a restaurant setting, one of them is drinking orange juice.\nHypothesis: The people are sitting at desks in school.\nRelation:",
+    "answer": "contradiction",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "A few people in a restaurant setting, one of them is drinking orange juice.",
+      "hypothesis": "The people are sitting at desks in school."
+    }
+  },
+  {
+    "prompt": "Premise: A few people in a restaurant setting, one of them is drinking orange juice.\nHypothesis: The diners are at a restaurant.\nRelation:",
+    "answer": "entailment",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "A few people in a restaurant setting, one of them is drinking orange juice.",
+      "hypothesis": "The diners are at a restaurant."
+    }
+  },
+  {
+    "prompt": "Premise: An older man is drinking orange juice at a restaurant.\nHypothesis: A man is drinking juice.\nRelation:",
+    "answer": "entailment",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "An older man is drinking orange juice at a restaurant.",
+      "hypothesis": "A man is drinking juice."
+    }
+  },
+  {
+    "prompt": "Premise: An older man is drinking orange juice at a restaurant.\nHypothesis: Two women are at a restaurant drinking wine.\nRelation:",
+    "answer": "contradiction",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "An older man is drinking orange juice at a restaurant.",
+      "hypothesis": "Two women are at a restaurant drinking wine."
+    }
+  },
+  {
+    "prompt": "Premise: An older man is drinking orange juice at a restaurant.\nHypothesis: A man in a restaurant is waiting for his meal to arrive.\nRelation:",
+    "answer": "neutral",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "An older man is drinking orange juice at a restaurant.",
+      "hypothesis": "A man in a restaurant is waiting for his meal to arrive."
+    }
+  },
+  {
+    "prompt": "Premise: A man with blond-hair, and a brown shirt drinking out of a public water fountain.\nHypothesis: A blond man getting a drink of water from a fountain in the park.\nRelation:",
+    "answer": "neutral",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "A man with blond-hair, and a brown shirt drinking out of a public water fountain.",
+      "hypothesis": "A blond man getting a drink of water from a fountain in the park."
+    }
+  },
+  {
+    "prompt": "Premise: A man with blond-hair, and a brown shirt drinking out of a public water fountain.\nHypothesis: A blond man wearing a brown shirt is reading a book on a bench in the park\nRelation:",
+    "answer": "contradiction",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "A man with blond-hair, and a brown shirt drinking out of a public water fountain.",
+      "hypothesis": "A blond man wearing a brown shirt is reading a book on a bench in the park"
+    }
+  },
+  {
+    "prompt": "Premise: A man with blond-hair, and a brown shirt drinking out of a public water fountain.\nHypothesis: A blond man drinking water from a fountain.\nRelation:",
+    "answer": "entailment",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "A man with blond-hair, and a brown shirt drinking out of a public water fountain.",
+      "hypothesis": "A blond man drinking water from a fountain."
+    }
+  },
+  {
+    "prompt": "Premise: Two women who just had lunch hugging and saying goodbye.\nHypothesis: The friends scowl at each other over a full dinner table.\nRelation:",
+    "answer": "contradiction",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "Two women who just had lunch hugging and saying goodbye.",
+      "hypothesis": "The friends scowl at each other over a full dinner table."
+    }
+  },
+  {
+    "prompt": "Premise: Two women who just had lunch hugging and saying goodbye.\nHypothesis: There are two woman in this picture.\nRelation:",
+    "answer": "entailment",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "Two women who just had lunch hugging and saying goodbye.",
+      "hypothesis": "There are two woman in this picture."
+    }
+  },
+  {
+    "prompt": "Premise: Two women who just had lunch hugging and saying goodbye.\nHypothesis: The friends have just met for the first time in 20 years, and have had a great time catching up.\nRelation:",
+    "answer": "neutral",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "Two women who just had lunch hugging and saying goodbye.",
+      "hypothesis": "The friends have just met for the first time in 20 years, and have had a great time catching up."
+    }
+  },
+  {
+    "prompt": "Premise: Two women, holding food carryout containers, hug.\nHypothesis: The two sisters saw each other across the crowded diner and shared a hug, both clutching their doggie bags.\nRelation:",
+    "answer": "neutral",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "Two women, holding food carryout containers, hug.",
+      "hypothesis": "The two sisters saw each other across the crowded diner and shared a hug, both clutching their doggie bags."
+    }
+  },
+  {
+    "prompt": "Premise: Two women, holding food carryout containers, hug.\nHypothesis: Two groups of rival gang members flipped each other off.\nRelation:",
+    "answer": "contradiction",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "Two women, holding food carryout containers, hug.",
+      "hypothesis": "Two groups of rival gang members flipped each other off."
+    }
+  },
+  {
+    "prompt": "Premise: Two women, holding food carryout containers, hug.\nHypothesis: Two women hug each other.\nRelation:",
+    "answer": "entailment",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "Two women, holding food carryout containers, hug.",
+      "hypothesis": "Two women hug each other."
+    }
+  },
+  {
+    "prompt": "Premise: A Little League team tries to catch a runner sliding into a base in an afternoon game.\nHypothesis: A team is trying to score the games winning out.\nRelation:",
+    "answer": "neutral",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "A Little League team tries to catch a runner sliding into a base in an afternoon game.",
+      "hypothesis": "A team is trying to score the games winning out."
+    }
+  },
+  {
+    "prompt": "Premise: A Little League team tries to catch a runner sliding into a base in an afternoon game.\nHypothesis: A team is trying to tag a runner out.\nRelation:",
+    "answer": "entailment",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "A Little League team tries to catch a runner sliding into a base in an afternoon game.",
+      "hypothesis": "A team is trying to tag a runner out."
+    }
+  },
+  {
+    "prompt": "Premise: A Little League team tries to catch a runner sliding into a base in an afternoon game.\nHypothesis: A team is playing baseball on Saturn.\nRelation:",
+    "answer": "contradiction",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "A Little League team tries to catch a runner sliding into a base in an afternoon game.",
+      "hypothesis": "A team is playing baseball on Saturn."
+    }
+  },
+  {
+    "prompt": "Premise: The school is having a special event in order to show the american culture on how other cultures are dealt with in parties.\nHypothesis: A school hosts a basketball game.\nRelation:",
+    "answer": "contradiction",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "The school is having a special event in order to show the american culture on how other cultures are dealt with in parties.",
+      "hypothesis": "A school hosts a basketball game."
+    }
+  },
+  {
+    "prompt": "Premise: The school is having a special event in order to show the american culture on how other cultures are dealt with in parties.\nHypothesis: A high school is hosting an event.\nRelation:",
+    "answer": "neutral",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "The school is having a special event in order to show the american culture on how other cultures are dealt with in parties.",
+      "hypothesis": "A high school is hosting an event."
+    }
+  },
+  {
+    "prompt": "Premise: The school is having a special event in order to show the american culture on how other cultures are dealt with in parties.\nHypothesis: A school is hosting an event.\nRelation:",
+    "answer": "entailment",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "The school is having a special event in order to show the american culture on how other cultures are dealt with in parties.",
+      "hypothesis": "A school is hosting an event."
+    }
+  },
+  {
+    "prompt": "Premise: High fashion ladies wait outside a tram beside a crowd of people in the city.\nHypothesis: The women do not care what clothes they wear.\nRelation:",
+    "answer": "contradiction",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "High fashion ladies wait outside a tram beside a crowd of people in the city.",
+      "hypothesis": "The women do not care what clothes they wear."
+    }
+  },
+  {
+    "prompt": "Premise: High fashion ladies wait outside a tram beside a crowd of people in the city.\nHypothesis: Women are waiting by a tram.\nRelation:",
+    "answer": "entailment",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "High fashion ladies wait outside a tram beside a crowd of people in the city.",
+      "hypothesis": "Women are waiting by a tram."
+    }
+  },
+  {
+    "prompt": "Premise: High fashion ladies wait outside a tram beside a crowd of people in the city.\nHypothesis: The women enjoy having a good fashion sense.\nRelation:",
+    "answer": "neutral",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "High fashion ladies wait outside a tram beside a crowd of people in the city.",
+      "hypothesis": "The women enjoy having a good fashion sense."
+    }
+  },
+  {
+    "prompt": "Premise: A man, woman, and child enjoying themselves on a beach.\nHypothesis: A child with mom and dad, on summer vacation at the beach.\nRelation:",
+    "answer": "neutral",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "A man, woman, and child enjoying themselves on a beach.",
+      "hypothesis": "A child with mom and dad, on summer vacation at the beach."
+    }
+  },
+  {
+    "prompt": "Premise: A man, woman, and child enjoying themselves on a beach.\nHypothesis: A family of three is at the beach.\nRelation:",
+    "answer": "entailment",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "A man, woman, and child enjoying themselves on a beach.",
+      "hypothesis": "A family of three is at the beach."
+    }
+  },
+  {
+    "prompt": "Premise: A man, woman, and child enjoying themselves on a beach.\nHypothesis: A family of three is at the mall shopping.\nRelation:",
+    "answer": "contradiction",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "A man, woman, and child enjoying themselves on a beach.",
+      "hypothesis": "A family of three is at the mall shopping."
+    }
+  },
+  {
+    "prompt": "Premise: People waiting to get on a train or just getting off.\nHypothesis: The people waiting on the train are sitting.\nRelation:",
+    "answer": "neutral",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "People waiting to get on a train or just getting off.",
+      "hypothesis": "The people waiting on the train are sitting."
+    }
+  },
+  {
+    "prompt": "Premise: People waiting to get on a train or just getting off.\nHypothesis: There are people just getting on a train\nRelation:",
+    "answer": "entailment",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "People waiting to get on a train or just getting off.",
+      "hypothesis": "There are people just getting on a train"
+    }
+  },
+  {
+    "prompt": "Premise: People waiting to get on a train or just getting off.\nHypothesis: There are people waiting on a train.\nRelation:",
+    "answer": "entailment",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "People waiting to get on a train or just getting off.",
+      "hypothesis": "There are people waiting on a train."
+    }
+  },
+  {
+    "prompt": "Premise: A couple playing with a little boy on the beach.\nHypothesis: A couple are playing with a young child outside.\nRelation:",
+    "answer": "entailment",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "A couple playing with a little boy on the beach.",
+      "hypothesis": "A couple are playing with a young child outside."
+    }
+  },
+  {
+    "prompt": "Premise: A couple playing with a little boy on the beach.\nHypothesis: A couple are playing frisbee with a young child at the beach.\nRelation:",
+    "answer": "neutral",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "A couple playing with a little boy on the beach.",
+      "hypothesis": "A couple are playing frisbee with a young child at the beach."
+    }
+  },
+  {
+    "prompt": "Premise: A couple playing with a little boy on the beach.\nHypothesis: A couple watch a little girl play by herself on the beach.\nRelation:",
+    "answer": "contradiction",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "A couple playing with a little boy on the beach.",
+      "hypothesis": "A couple watch a little girl play by herself on the beach."
+    }
+  },
+  {
+    "prompt": "Premise: A couple play in the tide with their young son.\nHypothesis: The family is sitting down for dinner.\nRelation:",
+    "answer": "contradiction",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "A couple play in the tide with their young son.",
+      "hypothesis": "The family is sitting down for dinner."
+    }
+  },
+  {
+    "prompt": "Premise: A couple play in the tide with their young son.\nHypothesis: The family is outside.\nRelation:",
+    "answer": "entailment",
+    "category": "logical",
+    "source": "snli",
+    "metadata": {
+      "premise": "A couple play in the tide with their young son.",
+      "hypothesis": "The family is outside."
+    }
+  }
+]
