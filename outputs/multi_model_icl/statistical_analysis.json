@@ -1,0 +1,311 @@
+{
+  "anova": {
+    "method": "Two one-way ANOVAs (model and category as factors)",
+    "note": "Full two-way ANOVA not feasible with single observation per cell",
+    "model_effect": {
+      "F_statistic": 0.01070762611925602,
+      "p_value": 0.9893683791160583,
+      "significant": false,
+      "interpretation": "No significant model effect"
+    },
+    "category_effect": {
+      "F_statistic": 16.152732849121094,
+      "p_value": 0.003843009937554598,
+      "significant": true,
+      "interpretation": "Category has significant effect on DeltaH"
+    },
+    "dataframe": [
+      {
+        "model": "distilgpt2",
+        "category": "factual",
+        "delta_h": -3.225861072540283
+      },
+      {
+        "model": "distilgpt2",
+        "category": "logical",
+        "delta_h": 4.754085540771484
+      },
+      {
+        "model": "distilgpt2",
+        "category": "creative",
+        "delta_h": -0.12699317932128906
+      },
+      {
+        "model": "gpt2",
+        "category": "factual",
+        "delta_h": -1.6470561027526855
+      },
+      {
+        "model": "gpt2",
+        "category": "logical",
+        "delta_h": 4.24758768081665
+      },
+      {
+        "model": "gpt2",
+        "category": "creative",
+        "delta_h": -0.2127523422241211
+      },
+      {
+        "model": "gpt2-medium",
+        "category": "factual",
+        "delta_h": -0.5378437042236328
+      },
+      {
+        "model": "gpt2-medium",
+        "category": "logical",
+        "delta_h": 1.8569402694702148
+      },
+      {
+        "model": "gpt2-medium",
+        "category": "creative",
+        "delta_h": 0.19881772994995117
+      }
+    ]
+  },
+  "pairwise_comparisons": {
+    "method": "Paired t-tests with Bonferroni correction",
+    "n_comparisons": 3,
+    "alpha_bonferroni": 0.016666666666666666,
+    "comparisons": [
+      {
+        "model1": "distilgpt2",
+        "model2": "gpt2",
+        "t_statistic": -0.5165143179253241,
+        "p_value": 0.6569345329113466,
+        "p_value_bonferroni": 1.9708035987340398,
+        "significant_bonferroni": false,
+        "cohens_d": -0.09185455739498138,
+        "effect_size": [
+          "negligible",
+          "very small or no effect"
+        ],
+        "mean_diff": -0.32884928584098816
+      },
+      {
+        "model1": "distilgpt2",
+        "model2": "gpt2-medium",
+        "t_statistic": -0.0240286171303236,
+        "p_value": 0.9830116538668756,
+        "p_value_bonferroni": 2.949034961600627,
+        "significant_bonferroni": false,
+        "cohens_d": -0.013078218325972557,
+        "effect_size": [
+          "negligible",
+          "very small or no effect"
+        ],
+        "mean_diff": -0.038894325494766235
+      },
+      {
+        "model1": "gpt2",
+        "model2": "gpt2-medium",
+        "t_statistic": 0.2711178958991505,
+        "p_value": 0.8117193664772311,
+        "p_value_bonferroni": 2.4351580994316935,
+        "significant_bonferroni": false,
+        "cohens_d": 0.12389492243528366,
+        "effect_size": [
+          "negligible",
+          "very small or no effect"
+        ],
+        "mean_diff": 0.2899549603462219
+      }
+    ]
+  },
+  "effect_sizes": {
+    "description": "Cohen's d effect sizes between model pairs",
+    "categories": {
+      "factual": [
+        {
+          "model1": "distilgpt2",
+          "model2": "gpt2",
+          "delta_h1": -3.225861072540283,
+          "delta_h2": -1.6470561027526855,
+          "cohens_d": -2.7363407611846924,
+          "effect_size": [
+            "very large",
+            "extremely strong effect"
+          ]
+        },
+        {
+          "model1": "distilgpt2",
+          "model2": "gpt2-medium",
+          "delta_h1": -3.225861072540283,
+          "delta_h2": -0.5378437042236328,
+          "cohens_d": -3.43647837638855,
+          "effect_size": [
+            "very large",
+            "extremely strong effect"
+          ]
+        },
+        {
+          "model1": "gpt2",
+          "model2": "gpt2-medium",
+          "delta_h1": -1.6470561027526855,
+          "delta_h2": -0.5378437042236328,
+          "cohens_d": -1.2822644710540771,
+          "effect_size": [
+            "very large",
+            "extremely strong effect"
+          ]
+        }
+      ],
+      "logical": [
+        {
+          "model1": "distilgpt2",
+          "model2": "gpt2",
+          "delta_h1": 4.754085540771484,
+          "delta_h2": 4.24758768081665,
+          "cohens_d": 0.8436431884765625,
+          "effect_size": [
+            "large",
+            "substantial effect"
+          ]
+        },
+        {
+          "model1": "distilgpt2",
+          "model2": "gpt2-medium",
+          "delta_h1": 4.754085540771484,
+          "delta_h2": 1.8569402694702148,
+          "cohens_d": 4.5187458992004395,
+          "effect_size": [
+            "very large",
+            "extremely strong effect"
+          ]
+        },
+        {
+          "model1": "gpt2",
+          "model2": "gpt2-medium",
+          "delta_h1": 4.24758768081665,
+          "delta_h2": 1.8569402694702148,
+          "cohens_d": 4.610931873321533,
+          "effect_size": [
+            "very large",
+            "extremely strong effect"
+          ]
+        }
+      ],
+      "creative": [
+        {
+          "model1": "distilgpt2",
+          "model2": "gpt2",
+          "delta_h1": -0.12699317932128906,
+          "delta_h2": -0.2127523422241211,
+          "cohens_d": 0.28620782494544983,
+          "effect_size": [
+            "small",
+            "detectable but modest effect"
+          ]
+        },
+        {
+          "model1": "distilgpt2",
+          "model2": "gpt2-medium",
+          "delta_h1": -0.12699317932128906,
+          "delta_h2": 0.19881772994995117,
+          "cohens_d": -0.7944668531417847,
+          "effect_size": [
+            "medium",
+            "clearly visible effect"
+          ]
+        },
+        {
+          "model1": "gpt2",
+          "model2": "gpt2-medium",
+          "delta_h1": -0.2127523422241211,
+          "delta_h2": 0.19881772994995117,
+          "cohens_d": -0.9458640217781067,
+          "effect_size": [
+            "large",
+            "substantial effect"
+          ]
+        }
+      ]
+    }
+  },
+  "correlations": {
+    "description": "Correlation between model size (parameters) and DeltaH",
+    "categories": {
+      "factual": {
+        "spearman": {
+          "rho": 1.0,
+          "p_value": 0.0,
+          "significant": true,
+          "interpretation": "Positive monotonic relationship"
+        },
+        "pearson": {
+          "r": 0.8866374857834818,
+          "p_value": 0.30606989616119096,
+          "significant": false,
+          "interpretation": "Positive linear relationship"
+        },
+        "model_params": [
+          82000000,
+          124000000,
+          355000000
+        ],
+        "delta_h_values": [
+          -3.225861072540283,
+          -1.6470561027526855,
+          -0.5378437042236328
+        ]
+      },
+      "logical": {
+        "spearman": {
+          "rho": -1.0,
+          "p_value": 0.0,
+          "significant": true,
+          "interpretation": "Negative monotonic relationship"
+        },
+        "pearson": {
+          "r": -0.9997782137038973,
+          "p_value": 0.01340820069556768,
+          "significant": true,
+          "interpretation": "Negative linear relationship"
+        },
+        "model_params": [
+          82000000,
+          124000000,
+          355000000
+        ],
+        "delta_h_values": [
+          4.754085540771484,
+          4.24758768081665,
+          1.8569402694702148
+        ]
+      },
+      "creative": {
+        "spearman": {
+          "rho": 0.5,
+          "p_value": 0.6666666666666667,
+          "significant": false,
+          "interpretation": "Positive monotonic relationship"
+        },
+        "pearson": {
+          "r": 0.9420425599344147,
+          "p_value": 0.21780603966263434,
+          "significant": false,
+          "interpretation": "Positive linear relationship"
+        },
+        "model_params": [
+          82000000,
+          124000000,
+          355000000
+        ],
+        "delta_h_values": [
+          -0.12699317932128906,
+          -0.2127523422241211,
+          0.19881772994995117
+        ]
+      }
+    }
+  },
+  "summary": {
+    "anova_model_significant": false,
+    "anova_category_significant": true,
+    "n_significant_pairwise": 0,
+    "total_pairwise": 3,
+    "categories_with_significant_correlation": [
+      "factual",
+      "logical"
+    ]
+  }
+}

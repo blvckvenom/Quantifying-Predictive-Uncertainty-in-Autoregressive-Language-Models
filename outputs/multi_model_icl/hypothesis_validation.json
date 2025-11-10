@@ -1,0 +1,370 @@
+{
+  "H1_scaling": {
+    "hypothesis": "DeltaH increases with model size",
+    "method": "Spearman rank correlation",
+    "alpha": 0.05,
+    "categories": {
+      "factual": {
+        "correlation": 1.0,
+        "p_value": 0.0,
+        "supported": true,
+        "model_params": [
+          82000000,
+          124000000,
+          355000000
+        ],
+        "delta_h_values": [
+          -3.225861072540283,
+          -1.6470561027526855,
+          -0.5378437042236328
+        ],
+        "interpretation": "Positive correlation (significant)"
+      },
+      "logical": {
+        "correlation": -1.0,
+        "p_value": 0.0,
+        "supported": false,
+        "model_params": [
+          82000000,
+          124000000,
+          355000000
+        ],
+        "delta_h_values": [
+          4.754085540771484,
+          4.24758768081665,
+          1.8569402694702148
+        ],
+        "interpretation": "Negative correlation (significant)"
+      },
+      "creative": {
+        "correlation": 0.5,
+        "p_value": 0.6666666666666667,
+        "supported": false,
+        "model_params": [
+          82000000,
+          124000000,
+          355000000
+        ],
+        "delta_h_values": [
+          -0.12699317932128906,
+          -0.2127523422241211,
+          0.19881772994995117
+        ],
+        "interpretation": "Positive correlation (not significant)"
+      }
+    },
+    "overall_conclusion": "NOT SUPPORTED: Scaling effect not consistent",
+    "supported_categories": 1,
+    "total_categories": 3
+  },
+  "H2_consistency": {
+    "hypothesis": "Category ranking is consistent across models",
+    "method": "Kendall's W (coefficient of concordance)",
+    "expected_ranking": [
+      "factual",
+      "logical",
+      "creative"
+    ],
+    "alpha": 0.05,
+    "model_rankings": {
+      "distilgpt2": [
+        "logical",
+        "creative",
+        "factual"
+      ],
+      "gpt2": [
+        "logical",
+        "creative",
+        "factual"
+      ],
+      "gpt2-medium": [
+        "logical",
+        "creative",
+        "factual"
+      ],
+      "distilgpt2_matches_expected": false,
+      "gpt2_matches_expected": false,
+      "gpt2-medium_matches_expected": false
+    },
+    "kendall_w": 1.0,
+    "chi_square": 6.0,
+    "degrees_of_freedom": 2,
+    "p_value": 0.04978706836786395,
+    "supported": true,
+    "agreement_level": "very strong",
+    "conclusion": "SUPPORTED: Very strong agreement (W=1.000, p=0.0498)",
+    "exact_matches": 0,
+    "total_models": 3
+  },
+  "efficiency": {
+    "description": "DeltaH per million parameters",
+    "categories": {
+      "factual": {
+        "model_ids": [
+          "distilgpt2",
+          "gpt2",
+          "gpt2-medium"
+        ],
+        "efficiency_values": [
+          -0.03933976917732053,
+          -0.013282710506070045,
+          -0.0015150526879538953
+        ],
+        "most_efficient_model": "gpt2-medium",
+        "most_efficient_value": -0.0015150526879538953
+      },
+      "logical": {
+        "model_ids": [
+          "distilgpt2",
+          "gpt2",
+          "gpt2-medium"
+        ],
+        "efficiency_values": [
+          0.05797665293623761,
+          0.0342547393614246,
+          0.005230817660479479
+        ],
+        "most_efficient_model": "distilgpt2",
+        "most_efficient_value": 0.05797665293623761
+      },
+      "creative": {
+        "model_ids": [
+          "distilgpt2",
+          "gpt2",
+          "gpt2-medium"
+        ],
+        "efficiency_values": [
+          -0.0015486973087962081,
+          -0.0017157446953558152,
+          0.0005600499435209892
+        ],
+        "most_efficient_model": "gpt2-medium",
+        "most_efficient_value": 0.0005600499435209892
+      }
+    }
+  },
+  "convergence": {
+    "description": "Analysis of DeltaH saturation with increasing k",
+    "categories": {
+      "factual": {
+        "distilgpt2": {
+          "n_examples": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "delta_h": [
+            0.0,
+            -2.9171395301818848,
+            -3.944328784942627,
+            -3.264625072479248,
+            -3.225861072540283
+          ],
+          "marginal_gains": [
+            -2.9171395301818848,
+            -1.0271892547607422,
+            0.6797037124633789,
+            0.038763999938964844
+          ],
+          "shows_diminishing_returns": false
+        },
+        "gpt2": {
+          "n_examples": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "delta_h": [
+            0.0,
+            -2.740166187286377,
+            -3.508634090423584,
+            -2.7310776710510254,
+            -1.6470561027526855
+          ],
+          "marginal_gains": [
+            -2.740166187286377,
+            -0.768467903137207,
+            0.7775564193725586,
+            1.0840215682983398
+          ],
+          "shows_diminishing_returns": false
+        },
+        "gpt2-medium": {
+          "n_examples": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "delta_h": [
+            0.0,
+            -1.8272733688354492,
+            -2.8225183486938477,
+            -2.19766902923584,
+            -0.5378437042236328
+          ],
+          "marginal_gains": [
+            -1.8272733688354492,
+            -0.9952449798583984,
+            0.6248493194580078,
+            1.659825325012207
+          ],
+          "shows_diminishing_returns": false
+        }
+      },
+      "logical": {
+        "distilgpt2": {
+          "n_examples": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "delta_h": [
+            0.0,
+            4.2967143058776855,
+            6.452205657958984,
+            3.9593052864074707,
+            4.754085540771484
+          ],
+          "marginal_gains": [
+            4.2967143058776855,
+            2.155491352081299,
+            -2.4929003715515137,
+            0.7947802543640137
+          ],
+          "shows_diminishing_returns": false
+        },
+        "gpt2": {
+          "n_examples": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "delta_h": [
+            0.0,
+            -0.2694530487060547,
+            7.258138656616211,
+            2.7958126068115234,
+            4.24758768081665
+          ],
+          "marginal_gains": [
+            -0.2694530487060547,
+            7.527591705322266,
+            -4.4623260498046875,
+            1.451775074005127
+          ],
+          "shows_diminishing_returns": false
+        },
+        "gpt2-medium": {
+          "n_examples": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "delta_h": [
+            0.0,
+            1.3268184661865234,
+            -0.912846565246582,
+            0.7126927375793457,
+            1.8569402694702148
+          ],
+          "marginal_gains": [
+            1.3268184661865234,
+            -2.2396650314331055,
+            1.6255393028259277,
+            1.1442475318908691
+          ],
+          "shows_diminishing_returns": false
+        }
+      },
+      "creative": {
+        "distilgpt2": {
+          "n_examples": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "delta_h": [
+            0.0,
+            1.0046424865722656,
+            0.8798151016235352,
+            1.3087821006774902,
+            -0.12699317932128906
+          ],
+          "marginal_gains": [
+            1.0046424865722656,
+            -0.12482738494873047,
+            0.4289669990539551,
+            -1.4357752799987793
+          ],
+          "shows_diminishing_returns": false
+        },
+        "gpt2": {
+          "n_examples": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "delta_h": [
+            0.0,
+            0.6250457763671875,
+            0.5055627822875977,
+            0.5915322303771973,
+            -0.2127523422241211
+          ],
+          "marginal_gains": [
+            0.6250457763671875,
+            -0.11948299407958984,
+            0.08596944808959961,
+            -0.8042845726013184
+          ],
+          "shows_diminishing_returns": false
+        },
+        "gpt2-medium": {
+          "n_examples": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ],
+          "delta_h": [
+            0.0,
+            0.8787617683410645,
+            0.7281589508056641,
+            0.7705121040344238,
+            0.19881772994995117
+          ],
+          "marginal_gains": [
+            0.8787617683410645,
+            -0.1506028175354004,
+            0.042353153228759766,
+            -0.5716943740844727
+          ],
+          "shows_diminishing_returns": false
+        }
+      }
+    }
+  },
+  "summary": {
+    "H1_scaling_supported": false,
+    "H2_consistency_supported": true,
+    "both_supported": false,
+    "overall_assessment": "PARTIAL EVIDENCE: Consistency supported, scaling weak"
+  }
+}
