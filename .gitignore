@@ -57,17 +57,5 @@ Thumbs.db
 *.temp
 .cache/
 
-# Large model files (optional - uncomment if needed)
-# *.bin
-# *.pt
-# *.pth
 
-# Old code (legacy - optional)
-# Uncomment to exclude from version control:
-# old_code/
 
-# Internal documentation and reorganization reports
-ESTRUCTURA_REPOSITORIO.md
-REORGANIZACION_COMPLETADA.md
-ORGANIZACION_FINAL_REPOSITORIO.md
-.claude/
