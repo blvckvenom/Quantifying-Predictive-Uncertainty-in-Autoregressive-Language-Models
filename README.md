@@ -1,6 +1,6 @@
 # LLM Uncertainty Analysis
 
-Análisis cuantitativo de incertidumbre predictiva en modelos de lenguaje autoregresivos utilizando teoría de la información. Este proyecto investiga cómo el **In-Context Learning (ICL)** afecta la entropía predictiva en diferentes categorías de tareas.
+Análisis cuantitativo de incertidumbre predictiva en modelos de lenguaje autoregresivos utilizando teoría de la información. Este proyecto en instancia intermedia se centra en cómo el **In-Context Learning (ICL)** afecta la entropía predictiva en diferentes categorías de tareas.
 
 **Curso:** EL7024-1 Teoría de la Información (2025-2)
 **Universidad:** Universidad de Chile
